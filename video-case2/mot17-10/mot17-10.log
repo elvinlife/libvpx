@@ -1,0 +1,2558 @@
+Codec WebM Project VP9 Encoder v1.10.0
+frames: 3600, skip: 0
+layers: 3
+width 960, height: 540,
+num: 1, den: 30, bitrate: 6000,
+gop size: 100
+SVC frame: 0, kf: 1, size: 25847, pts: 0
+stream: 0 frame: 24 size: 25726
+stream: 1 frame: 24 size: 25796
+stream: 2 frame: 24 size: 25839
+SVC frame: 1, kf: 0, size: 1226, pts: 1
+stream: 0 frame: 25 size: 571
+stream: 1 frame: 25 size: 1091
+stream: 2 frame: 25 size: 1218
+SVC frame: 2, kf: 0, size: 2354, pts: 2
+stream: 0 frame: 26 size: 1369
+stream: 1 frame: 26 size: 2207
+stream: 2 frame: 26 size: 2346
+SVC frame: 3, kf: 0, size: 3642, pts: 3
+stream: 0 frame: 27 size: 1555
+stream: 1 frame: 27 size: 3439
+stream: 2 frame: 27 size: 3634
+SVC frame: 4, kf: 0, size: 5039, pts: 4
+stream: 0 frame: 28 size: 2503
+stream: 1 frame: 28 size: 4756
+stream: 2 frame: 28 size: 5031
+SVC frame: 5, kf: 0, size: 5657, pts: 5
+stream: 0 frame: 29 size: 2411
+stream: 1 frame: 29 size: 5408
+stream: 2 frame: 29 size: 5649
+SVC frame: 6, kf: 0, size: 7896, pts: 6
+stream: 0 frame: 30 size: 4964
+stream: 1 frame: 30 size: 7691
+stream: 2 frame: 30 size: 7888
+SVC frame: 7, kf: 0, size: 10598, pts: 7
+stream: 0 frame: 31 size: 6655
+stream: 1 frame: 31 size: 10373
+stream: 2 frame: 31 size: 10590
+SVC frame: 8, kf: 0, size: 10033, pts: 8
+stream: 0 frame: 32 size: 2007
+stream: 1 frame: 32 size: 9859
+stream: 2 frame: 32 size: 10025
+SVC frame: 9, kf: 0, size: 11159, pts: 9
+stream: 0 frame: 33 size: 4363
+stream: 1 frame: 33 size: 10907
+stream: 2 frame: 33 size: 11151
+SVC frame: 10, kf: 0, size: 11303, pts: 10
+stream: 0 frame: 34 size: 2683
+stream: 1 frame: 34 size: 10994
+stream: 2 frame: 34 size: 11295
+SVC frame: 11, kf: 0, size: 9074, pts: 11
+stream: 0 frame: 35 size: 4108
+stream: 1 frame: 35 size: 8216
+stream: 2 frame: 35 size: 9066
+SVC frame: 12, kf: 0, size: 15415, pts: 12
+stream: 0 frame: 36 size: 3996
+stream: 1 frame: 36 size: 10876
+stream: 2 frame: 36 size: 15407
+SVC frame: 13, kf: 0, size: 14076, pts: 13
+stream: 0 frame: 37 size: 4189
+stream: 1 frame: 37 size: 10954
+stream: 2 frame: 37 size: 14068
+SVC frame: 14, kf: 0, size: 19294, pts: 14
+stream: 0 frame: 38 size: 6979
+stream: 1 frame: 38 size: 18236
+stream: 2 frame: 38 size: 19286
+SVC frame: 15, kf: 0, size: 18445, pts: 15
+stream: 0 frame: 39 size: 2761
+stream: 1 frame: 39 size: 7858
+stream: 2 frame: 39 size: 18437
+SVC frame: 16, kf: 0, size: 28307, pts: 16
+stream: 0 frame: 40 size: 4564
+stream: 1 frame: 40 size: 16598
+stream: 2 frame: 40 size: 28299
+SVC frame: 17, kf: 0, size: 23250, pts: 17
+stream: 0 frame: 41 size: 5388
+stream: 1 frame: 41 size: 10818
+stream: 2 frame: 41 size: 23242
+SVC frame: 18, kf: 0, size: 21665, pts: 18
+stream: 0 frame: 42 size: 3134
+stream: 1 frame: 42 size: 9669
+stream: 2 frame: 42 size: 21657
+SVC frame: 19, kf: 0, size: 43953, pts: 19
+stream: 0 frame: 43 size: 11059
+stream: 1 frame: 43 size: 21807
+stream: 2 frame: 43 size: 43945
+SVC frame: 20, kf: 0, size: 42381, pts: 20
+stream: 0 frame: 44 size: 6419
+stream: 1 frame: 44 size: 18973
+stream: 2 frame: 44 size: 42373
+SVC frame: 21, kf: 0, size: 21974, pts: 21
+stream: 0 frame: 45 size: 3769
+stream: 1 frame: 45 size: 10822
+stream: 2 frame: 45 size: 21966
+SVC frame: 22, kf: 0, size: 26109, pts: 22
+stream: 0 frame: 46 size: 3339
+stream: 1 frame: 46 size: 11662
+stream: 2 frame: 46 size: 26101
+SVC frame: 23, kf: 0, size: 23931, pts: 23
+stream: 0 frame: 47 size: 3544
+stream: 1 frame: 47 size: 10144
+stream: 2 frame: 47 size: 23923
+SVC frame: 24, kf: 0, size: 49727, pts: 24
+stream: 0 frame: 48 size: 6621
+stream: 1 frame: 48 size: 18805
+stream: 2 frame: 48 size: 49719
+SVC frame: 25, kf: 0, size: 15306, pts: 25
+stream: 0 frame: 49 size: 2451
+stream: 1 frame: 49 size: 6787
+stream: 2 frame: 49 size: 15298
+SVC frame: 26, kf: 0, size: 27778, pts: 26
+stream: 0 frame: 50 size: 5013
+stream: 1 frame: 50 size: 13012
+stream: 2 frame: 50 size: 27770
+SVC frame: 27, kf: 0, size: 44907, pts: 27
+stream: 0 frame: 51 size: 10339
+stream: 1 frame: 51 size: 22372
+stream: 2 frame: 51 size: 44899
+SVC frame: 28, kf: 0, size: 33502, pts: 28
+stream: 0 frame: 52 size: 2254
+stream: 1 frame: 52 size: 12195
+stream: 2 frame: 52 size: 33494
+SVC frame: 29, kf: 0, size: 25354, pts: 29
+stream: 0 frame: 53 size: 4773
+stream: 1 frame: 53 size: 11029
+stream: 2 frame: 53 size: 25346
+SVC frame: 30, kf: 0, size: 39627, pts: 30
+stream: 0 frame: 54 size: 3981
+stream: 1 frame: 54 size: 12156
+stream: 2 frame: 54 size: 39619
+SVC frame: 31, kf: 0, size: 26632, pts: 31
+stream: 0 frame: 55 size: 5614
+stream: 1 frame: 55 size: 12553
+stream: 2 frame: 55 size: 26624
+SVC frame: 32, kf: 0, size: 38798, pts: 32
+stream: 0 frame: 56 size: 3676
+stream: 1 frame: 56 size: 12681
+stream: 2 frame: 56 size: 38790
+SVC frame: 33, kf: 0, size: 25363, pts: 33
+stream: 0 frame: 57 size: 4710
+stream: 1 frame: 57 size: 10747
+stream: 2 frame: 57 size: 25355
+SVC frame: 34, kf: 0, size: 41486, pts: 34
+stream: 0 frame: 58 size: 8383
+stream: 1 frame: 58 size: 18933
+stream: 2 frame: 58 size: 41478
+SVC frame: 35, kf: 0, size: 18252, pts: 35
+stream: 0 frame: 59 size: 2532
+stream: 1 frame: 59 size: 8467
+stream: 2 frame: 59 size: 18244
+SVC frame: 36, kf: 0, size: 34413, pts: 36
+stream: 0 frame: 60 size: 5040
+stream: 1 frame: 60 size: 14758
+stream: 2 frame: 60 size: 34405
+SVC frame: 37, kf: 0, size: 17150, pts: 37
+stream: 0 frame: 61 size: 3304
+stream: 1 frame: 61 size: 8174
+stream: 2 frame: 61 size: 17142
+SVC frame: 38, kf: 0, size: 32270, pts: 38
+stream: 0 frame: 62 size: 7027
+stream: 1 frame: 62 size: 15518
+stream: 2 frame: 62 size: 32262
+SVC frame: 39, kf: 0, size: 24626, pts: 39
+stream: 0 frame: 63 size: 4735
+stream: 1 frame: 63 size: 12722
+stream: 2 frame: 63 size: 24618
+SVC frame: 40, kf: 0, size: 39023, pts: 40
+stream: 0 frame: 64 size: 3296
+stream: 1 frame: 64 size: 13593
+stream: 2 frame: 64 size: 39015
+SVC frame: 41, kf: 0, size: 15681, pts: 41
+stream: 0 frame: 65 size: 4222
+stream: 1 frame: 65 size: 8211
+stream: 2 frame: 65 size: 15673
+SVC frame: 42, kf: 0, size: 22741, pts: 42
+stream: 0 frame: 66 size: 4373
+stream: 1 frame: 66 size: 11289
+stream: 2 frame: 66 size: 22733
+SVC frame: 43, kf: 0, size: 19180, pts: 43
+stream: 0 frame: 67 size: 3835
+stream: 1 frame: 67 size: 9898
+stream: 2 frame: 67 size: 19172
+SVC frame: 44, kf: 0, size: 33215, pts: 44
+stream: 0 frame: 68 size: 6203
+stream: 1 frame: 68 size: 16295
+stream: 2 frame: 68 size: 33207
+SVC frame: 45, kf: 0, size: 17787, pts: 45
+stream: 0 frame: 69 size: 3827
+stream: 1 frame: 69 size: 9294
+stream: 2 frame: 69 size: 17779
+SVC frame: 46, kf: 0, size: 39383, pts: 46
+stream: 0 frame: 70 size: 5908
+stream: 1 frame: 70 size: 16690
+stream: 2 frame: 70 size: 39375
+SVC frame: 47, kf: 0, size: 24603, pts: 47
+stream: 0 frame: 71 size: 6080
+stream: 1 frame: 71 size: 13437
+stream: 2 frame: 71 size: 24595
+SVC frame: 48, kf: 0, size: 39391, pts: 48
+stream: 0 frame: 72 size: 5284
+stream: 1 frame: 72 size: 16474
+stream: 2 frame: 72 size: 39383
+SVC frame: 49, kf: 0, size: 18112, pts: 49
+stream: 0 frame: 73 size: 3997
+stream: 1 frame: 73 size: 9232
+stream: 2 frame: 73 size: 18104
+SVC frame: 50, kf: 0, size: 22352, pts: 50
+stream: 0 frame: 74 size: 4204
+stream: 1 frame: 74 size: 11841
+stream: 2 frame: 74 size: 22344
+SVC frame: 51, kf: 0, size: 21835, pts: 51
+stream: 0 frame: 75 size: 4925
+stream: 1 frame: 75 size: 11690
+stream: 2 frame: 75 size: 21827
+SVC frame: 52, kf: 0, size: 37281, pts: 52
+stream: 0 frame: 76 size: 7249
+stream: 1 frame: 76 size: 19586
+stream: 2 frame: 76 size: 37273
+SVC frame: 53, kf: 0, size: 21564, pts: 53
+stream: 0 frame: 77 size: 3771
+stream: 1 frame: 77 size: 10922
+stream: 2 frame: 77 size: 21556
+SVC frame: 54, kf: 0, size: 32179, pts: 54
+stream: 0 frame: 78 size: 6728
+stream: 1 frame: 78 size: 16515
+stream: 2 frame: 78 size: 32171
+SVC frame: 55, kf: 0, size: 15643, pts: 55
+stream: 0 frame: 79 size: 2704
+stream: 1 frame: 79 size: 7323
+stream: 2 frame: 79 size: 15635
+SVC frame: 56, kf: 0, size: 38192, pts: 56
+stream: 0 frame: 80 size: 4907
+stream: 1 frame: 80 size: 14313
+stream: 2 frame: 80 size: 38184
+SVC frame: 57, kf: 0, size: 13633, pts: 57
+stream: 0 frame: 81 size: 3049
+stream: 1 frame: 81 size: 7319
+stream: 2 frame: 81 size: 13625
+SVC frame: 58, kf: 0, size: 20521, pts: 58
+stream: 0 frame: 82 size: 5080
+stream: 1 frame: 82 size: 9740
+stream: 2 frame: 82 size: 20513
+SVC frame: 59, kf: 0, size: 25831, pts: 59
+stream: 0 frame: 83 size: 5756
+stream: 1 frame: 83 size: 14539
+stream: 2 frame: 83 size: 25823
+SVC frame: 60, kf: 0, size: 37232, pts: 60
+stream: 0 frame: 84 size: 8224
+stream: 1 frame: 84 size: 19874
+stream: 2 frame: 84 size: 37224
+SVC frame: 61, kf: 0, size: 29544, pts: 61
+stream: 0 frame: 85 size: 6147
+stream: 1 frame: 85 size: 14652
+stream: 2 frame: 85 size: 29536
+SVC frame: 62, kf: 0, size: 28926, pts: 62
+stream: 0 frame: 86 size: 5137
+stream: 1 frame: 86 size: 14645
+stream: 2 frame: 86 size: 28918
+SVC frame: 63, kf: 0, size: 17051, pts: 63
+stream: 0 frame: 87 size: 3070
+stream: 1 frame: 87 size: 8401
+stream: 2 frame: 87 size: 17043
+SVC frame: 64, kf: 0, size: 30670, pts: 64
+stream: 0 frame: 88 size: 5142
+stream: 1 frame: 88 size: 12469
+stream: 2 frame: 88 size: 30662
+SVC frame: 65, kf: 0, size: 20489, pts: 65
+stream: 0 frame: 89 size: 4447
+stream: 1 frame: 89 size: 11301
+stream: 2 frame: 89 size: 20481
+SVC frame: 66, kf: 0, size: 31423, pts: 66
+stream: 0 frame: 90 size: 4096
+stream: 1 frame: 90 size: 13336
+stream: 2 frame: 90 size: 31415
+SVC frame: 67, kf: 0, size: 15487, pts: 67
+stream: 0 frame: 91 size: 3464
+stream: 1 frame: 91 size: 8218
+stream: 2 frame: 91 size: 15479
+SVC frame: 68, kf: 0, size: 27064, pts: 68
+stream: 0 frame: 92 size: 5640
+stream: 1 frame: 92 size: 12935
+stream: 2 frame: 92 size: 27056
+SVC frame: 69, kf: 0, size: 24653, pts: 69
+stream: 0 frame: 93 size: 5489
+stream: 1 frame: 93 size: 13583
+stream: 2 frame: 93 size: 24645
+SVC frame: 70, kf: 0, size: 27657, pts: 70
+stream: 0 frame: 94 size: 4461
+stream: 1 frame: 94 size: 14334
+stream: 2 frame: 94 size: 27649
+SVC frame: 71, kf: 0, size: 18370, pts: 71
+stream: 0 frame: 95 size: 3569
+stream: 1 frame: 95 size: 8819
+stream: 2 frame: 95 size: 18362
+SVC frame: 72, kf: 0, size: 42559, pts: 72
+stream: 0 frame: 96 size: 5653
+stream: 1 frame: 96 size: 16797
+stream: 2 frame: 96 size: 42551
+SVC frame: 73, kf: 0, size: 21168, pts: 73
+stream: 0 frame: 97 size: 5191
+stream: 1 frame: 97 size: 11000
+stream: 2 frame: 97 size: 21160
+SVC frame: 74, kf: 0, size: 26077, pts: 74
+stream: 0 frame: 98 size: 6075
+stream: 1 frame: 98 size: 14125
+stream: 2 frame: 98 size: 26069
+SVC frame: 75, kf: 0, size: 19577, pts: 75
+stream: 0 frame: 99 size: 3904
+stream: 1 frame: 99 size: 10573
+stream: 2 frame: 99 size: 19569
+SVC frame: 76, kf: 0, size: 41175, pts: 76
+stream: 0 frame: 100 size: 6557
+stream: 1 frame: 100 size: 18638
+stream: 2 frame: 100 size: 41167
+SVC frame: 77, kf: 0, size: 13242, pts: 77
+stream: 0 frame: 101 size: 2879
+stream: 1 frame: 101 size: 6836
+stream: 2 frame: 101 size: 13234
+SVC frame: 78, kf: 0, size: 23233, pts: 78
+stream: 0 frame: 102 size: 4254
+stream: 1 frame: 102 size: 11697
+stream: 2 frame: 102 size: 23225
+SVC frame: 79, kf: 0, size: 31071, pts: 79
+stream: 0 frame: 103 size: 7593
+stream: 1 frame: 103 size: 16242
+stream: 2 frame: 103 size: 31063
+SVC frame: 80, kf: 0, size: 34005, pts: 80
+stream: 0 frame: 104 size: 3298
+stream: 1 frame: 104 size: 13804
+stream: 2 frame: 104 size: 33997
+SVC frame: 81, kf: 0, size: 17075, pts: 81
+stream: 0 frame: 105 size: 4305
+stream: 1 frame: 105 size: 8502
+stream: 2 frame: 105 size: 17067
+SVC frame: 82, kf: 0, size: 26932, pts: 82
+stream: 0 frame: 106 size: 5956
+stream: 1 frame: 106 size: 14463
+stream: 2 frame: 106 size: 26924
+SVC frame: 83, kf: 0, size: 17116, pts: 83
+stream: 0 frame: 107 size: 3501
+stream: 1 frame: 107 size: 9415
+stream: 2 frame: 107 size: 17108
+SVC frame: 84, kf: 0, size: 40463, pts: 84
+stream: 0 frame: 108 size: 7470
+stream: 1 frame: 108 size: 21028
+stream: 2 frame: 108 size: 40455
+SVC frame: 85, kf: 0, size: 14904, pts: 85
+stream: 0 frame: 109 size: 2875
+stream: 1 frame: 109 size: 7819
+stream: 2 frame: 109 size: 14896
+SVC frame: 86, kf: 0, size: 38346, pts: 86
+stream: 0 frame: 110 size: 5086
+stream: 1 frame: 110 size: 14036
+stream: 2 frame: 110 size: 38338
+SVC frame: 87, kf: 0, size: 17022, pts: 87
+stream: 0 frame: 111 size: 4378
+stream: 1 frame: 111 size: 9303
+stream: 2 frame: 111 size: 17014
+SVC frame: 88, kf: 0, size: 33778, pts: 88
+stream: 0 frame: 112 size: 8893
+stream: 1 frame: 112 size: 17390
+stream: 2 frame: 112 size: 33770
+SVC frame: 89, kf: 0, size: 37041, pts: 89
+stream: 0 frame: 113 size: 9816
+stream: 1 frame: 113 size: 21653
+stream: 2 frame: 113 size: 37033
+SVC frame: 90, kf: 0, size: 21891, pts: 90
+stream: 0 frame: 114 size: 3925
+stream: 1 frame: 114 size: 12630
+stream: 2 frame: 114 size: 21883
+SVC frame: 91, kf: 0, size: 24354, pts: 91
+stream: 0 frame: 115 size: 4787
+stream: 1 frame: 115 size: 13165
+stream: 2 frame: 115 size: 24346
+SVC frame: 92, kf: 0, size: 27581, pts: 92
+stream: 0 frame: 116 size: 4634
+stream: 1 frame: 116 size: 12849
+stream: 2 frame: 116 size: 27573
+SVC frame: 93, kf: 0, size: 13781, pts: 93
+stream: 0 frame: 117 size: 2630
+stream: 1 frame: 117 size: 7204
+stream: 2 frame: 117 size: 13773
+SVC frame: 94, kf: 0, size: 34222, pts: 94
+stream: 0 frame: 118 size: 8093
+stream: 1 frame: 118 size: 18837
+stream: 2 frame: 118 size: 34214
+SVC frame: 95, kf: 0, size: 16458, pts: 95
+stream: 0 frame: 119 size: 2444
+stream: 1 frame: 119 size: 8055
+stream: 2 frame: 119 size: 16450
+SVC frame: 96, kf: 0, size: 47363, pts: 96
+stream: 0 frame: 120 size: 6138
+stream: 1 frame: 120 size: 16884
+stream: 2 frame: 120 size: 47355
+SVC frame: 97, kf: 0, size: 12139, pts: 97
+stream: 0 frame: 121 size: 2693
+stream: 1 frame: 121 size: 6485
+stream: 2 frame: 121 size: 12131
+SVC frame: 98, kf: 0, size: 18487, pts: 98
+stream: 0 frame: 122 size: 3472
+stream: 1 frame: 122 size: 9038
+stream: 2 frame: 122 size: 18479
+SVC frame: 99, kf: 0, size: 22425, pts: 99
+stream: 0 frame: 123 size: 5853
+stream: 1 frame: 123 size: 12733
+stream: 2 frame: 123 size: 22417
+SVC frame: 100, kf: 1, size: 50179, pts: 100
+stream: 0 frame: 124 size: 17342
+stream: 1 frame: 124 size: 26056
+stream: 2 frame: 124 size: 50171
+SVC frame: 101, kf: 0, size: 12160, pts: 101
+stream: 0 frame: 125 size: 1858
+stream: 1 frame: 125 size: 6699
+stream: 2 frame: 125 size: 12152
+SVC frame: 102, kf: 0, size: 25389, pts: 102
+stream: 0 frame: 126 size: 4271
+stream: 1 frame: 126 size: 13490
+stream: 2 frame: 126 size: 25381
+SVC frame: 103, kf: 0, size: 29286, pts: 103
+stream: 0 frame: 127 size: 5398
+stream: 1 frame: 127 size: 15218
+stream: 2 frame: 127 size: 29278
+SVC frame: 104, kf: 0, size: 37166, pts: 104
+stream: 0 frame: 128 size: 5584
+stream: 1 frame: 128 size: 14154
+stream: 2 frame: 128 size: 37158
+SVC frame: 105, kf: 0, size: 12046, pts: 105
+stream: 0 frame: 129 size: 2702
+stream: 1 frame: 129 size: 6879
+stream: 2 frame: 129 size: 12038
+SVC frame: 106, kf: 0, size: 31679, pts: 106
+stream: 0 frame: 130 size: 4099
+stream: 1 frame: 130 size: 11851
+stream: 2 frame: 130 size: 31671
+SVC frame: 107, kf: 0, size: 14537, pts: 107
+stream: 0 frame: 131 size: 4380
+stream: 1 frame: 131 size: 8512
+stream: 2 frame: 131 size: 14529
+SVC frame: 108, kf: 0, size: 35739, pts: 108
+stream: 0 frame: 132 size: 6353
+stream: 1 frame: 132 size: 21450
+stream: 2 frame: 132 size: 35731
+SVC frame: 109, kf: 0, size: 16938, pts: 109
+stream: 0 frame: 133 size: 3929
+stream: 1 frame: 133 size: 8612
+stream: 2 frame: 133 size: 16930
+SVC frame: 110, kf: 0, size: 25062, pts: 110
+stream: 0 frame: 134 size: 4891
+stream: 1 frame: 134 size: 12061
+stream: 2 frame: 134 size: 25054
+SVC frame: 111, kf: 0, size: 13645, pts: 111
+stream: 0 frame: 135 size: 2826
+stream: 1 frame: 135 size: 6897
+stream: 2 frame: 135 size: 13637
+SVC frame: 112, kf: 0, size: 45596, pts: 112
+stream: 0 frame: 136 size: 7925
+stream: 1 frame: 136 size: 21210
+stream: 2 frame: 136 size: 45588
+SVC frame: 113, kf: 0, size: 12741, pts: 113
+stream: 0 frame: 137 size: 2646
+stream: 1 frame: 137 size: 6897
+stream: 2 frame: 137 size: 12733
+SVC frame: 114, kf: 0, size: 24375, pts: 114
+stream: 0 frame: 138 size: 5459
+stream: 1 frame: 138 size: 12677
+stream: 2 frame: 138 size: 24367
+SVC frame: 115, kf: 0, size: 21287, pts: 115
+stream: 0 frame: 139 size: 4870
+stream: 1 frame: 139 size: 11047
+stream: 2 frame: 139 size: 21279
+SVC frame: 116, kf: 0, size: 36865, pts: 116
+stream: 0 frame: 140 size: 7689
+stream: 1 frame: 140 size: 17373
+stream: 2 frame: 140 size: 36857
+SVC frame: 117, kf: 0, size: 26467, pts: 117
+stream: 0 frame: 141 size: 5823
+stream: 1 frame: 141 size: 15131
+stream: 2 frame: 141 size: 26459
+SVC frame: 118, kf: 0, size: 23555, pts: 118
+stream: 0 frame: 142 size: 3524
+stream: 1 frame: 142 size: 11775
+stream: 2 frame: 142 size: 23547
+SVC frame: 119, kf: 0, size: 24765, pts: 119
+stream: 0 frame: 143 size: 4663
+stream: 1 frame: 143 size: 11276
+stream: 2 frame: 143 size: 24757
+SVC frame: 120, kf: 0, size: 50742, pts: 120
+stream: 0 frame: 144 size: 9264
+stream: 1 frame: 144 size: 23768
+stream: 2 frame: 144 size: 50734
+SVC frame: 121, kf: 0, size: 6500, pts: 121
+stream: 0 frame: 145 size: 1292
+stream: 1 frame: 145 size: 3705
+stream: 2 frame: 145 size: 6492
+SVC frame: 122, kf: 0, size: 27919, pts: 122
+stream: 0 frame: 146 size: 3031
+stream: 1 frame: 146 size: 10852
+stream: 2 frame: 146 size: 27911
+SVC frame: 123, kf: 0, size: 14867, pts: 123
+stream: 0 frame: 147 size: 4968
+stream: 1 frame: 147 size: 8827
+stream: 2 frame: 147 size: 14859
+SVC frame: 124, kf: 0, size: 27601, pts: 124
+stream: 0 frame: 148 size: 5093
+stream: 1 frame: 148 size: 17352
+stream: 2 frame: 148 size: 27593
+SVC frame: 125, kf: 0, size: 26691, pts: 125
+stream: 0 frame: 149 size: 5391
+stream: 1 frame: 149 size: 10533
+stream: 2 frame: 149 size: 26683
+SVC frame: 126, kf: 0, size: 26840, pts: 126
+stream: 0 frame: 150 size: 5078
+stream: 1 frame: 150 size: 13892
+stream: 2 frame: 150 size: 26832
+SVC frame: 127, kf: 0, size: 16854, pts: 127
+stream: 0 frame: 151 size: 3442
+stream: 1 frame: 151 size: 8845
+stream: 2 frame: 151 size: 16846
+SVC frame: 128, kf: 0, size: 48803, pts: 128
+stream: 0 frame: 152 size: 5349
+stream: 1 frame: 152 size: 17813
+stream: 2 frame: 152 size: 48795
+SVC frame: 129, kf: 0, size: 7760, pts: 129
+stream: 0 frame: 153 size: 2305
+stream: 1 frame: 153 size: 4594
+stream: 2 frame: 153 size: 7752
+SVC frame: 130, kf: 0, size: 32234, pts: 130
+stream: 0 frame: 154 size: 7980
+stream: 1 frame: 154 size: 16018
+stream: 2 frame: 154 size: 32226
+SVC frame: 131, kf: 0, size: 30138, pts: 131
+stream: 0 frame: 155 size: 6911
+stream: 1 frame: 155 size: 15557
+stream: 2 frame: 155 size: 30130
+SVC frame: 132, kf: 0, size: 33411, pts: 132
+stream: 0 frame: 156 size: 4273
+stream: 1 frame: 156 size: 19007
+stream: 2 frame: 156 size: 33403
+SVC frame: 133, kf: 0, size: 8980, pts: 133
+stream: 0 frame: 157 size: 1893
+stream: 1 frame: 157 size: 4850
+stream: 2 frame: 157 size: 8972
+SVC frame: 134, kf: 0, size: 38752, pts: 134
+stream: 0 frame: 158 size: 9191
+stream: 1 frame: 158 size: 19347
+stream: 2 frame: 158 size: 38744
+SVC frame: 135, kf: 0, size: 19259, pts: 135
+stream: 0 frame: 159 size: 3711
+stream: 1 frame: 159 size: 10744
+stream: 2 frame: 159 size: 19251
+SVC frame: 136, kf: 0, size: 33885, pts: 136
+stream: 0 frame: 160 size: 4310
+stream: 1 frame: 160 size: 14040
+stream: 2 frame: 160 size: 33877
+SVC frame: 137, kf: 0, size: 10643, pts: 137
+stream: 0 frame: 161 size: 2344
+stream: 1 frame: 161 size: 5673
+stream: 2 frame: 161 size: 10635
+SVC frame: 138, kf: 0, size: 21526, pts: 138
+stream: 0 frame: 162 size: 6590
+stream: 1 frame: 162 size: 11069
+stream: 2 frame: 162 size: 21518
+SVC frame: 139, kf: 0, size: 17884, pts: 139
+stream: 0 frame: 163 size: 2656
+stream: 1 frame: 163 size: 10561
+stream: 2 frame: 163 size: 17876
+SVC frame: 140, kf: 0, size: 41829, pts: 140
+stream: 0 frame: 164 size: 6654
+stream: 1 frame: 164 size: 18742
+stream: 2 frame: 164 size: 41821
+SVC frame: 141, kf: 0, size: 10873, pts: 141
+stream: 0 frame: 165 size: 2753
+stream: 1 frame: 165 size: 5811
+stream: 2 frame: 165 size: 10865
+SVC frame: 142, kf: 0, size: 27319, pts: 142
+stream: 0 frame: 166 size: 6136
+stream: 1 frame: 166 size: 13897
+stream: 2 frame: 166 size: 27311
+SVC frame: 143, kf: 0, size: 17067, pts: 143
+stream: 0 frame: 167 size: 3371
+stream: 1 frame: 167 size: 8921
+stream: 2 frame: 167 size: 17059
+SVC frame: 144, kf: 0, size: 39299, pts: 144
+stream: 0 frame: 168 size: 5803
+stream: 1 frame: 168 size: 19733
+stream: 2 frame: 168 size: 39291
+SVC frame: 145, kf: 0, size: 23897, pts: 145
+stream: 0 frame: 169 size: 6932
+stream: 1 frame: 169 size: 12630
+stream: 2 frame: 169 size: 23889
+SVC frame: 146, kf: 0, size: 31248, pts: 146
+stream: 0 frame: 170 size: 6481
+stream: 1 frame: 170 size: 16382
+stream: 2 frame: 170 size: 31240
+SVC frame: 147, kf: 0, size: 17482, pts: 147
+stream: 0 frame: 171 size: 3462
+stream: 1 frame: 171 size: 9327
+stream: 2 frame: 171 size: 17474
+SVC frame: 148, kf: 0, size: 25679, pts: 148
+stream: 0 frame: 172 size: 4022
+stream: 1 frame: 172 size: 11795
+stream: 2 frame: 172 size: 25671
+SVC frame: 149, kf: 0, size: 20535, pts: 149
+stream: 0 frame: 173 size: 5180
+stream: 1 frame: 173 size: 10700
+stream: 2 frame: 173 size: 20527
+SVC frame: 150, kf: 0, size: 39444, pts: 150
+stream: 0 frame: 174 size: 5739
+stream: 1 frame: 174 size: 15795
+stream: 2 frame: 174 size: 39436
+SVC frame: 151, kf: 0, size: 11945, pts: 151
+stream: 0 frame: 175 size: 2500
+stream: 1 frame: 175 size: 6688
+stream: 2 frame: 175 size: 11937
+SVC frame: 152, kf: 0, size: 29307, pts: 152
+stream: 0 frame: 176 size: 3533
+stream: 1 frame: 176 size: 11065
+stream: 2 frame: 176 size: 29299
+SVC frame: 153, kf: 0, size: 17084, pts: 153
+stream: 0 frame: 177 size: 5923
+stream: 1 frame: 177 size: 9255
+stream: 2 frame: 177 size: 17076
+SVC frame: 154, kf: 0, size: 25822, pts: 154
+stream: 0 frame: 178 size: 5928
+stream: 1 frame: 178 size: 18599
+stream: 2 frame: 178 size: 25814
+SVC frame: 155, kf: 0, size: 21661, pts: 155
+stream: 0 frame: 179 size: 4261
+stream: 1 frame: 179 size: 9365
+stream: 2 frame: 179 size: 21653
+SVC frame: 156, kf: 0, size: 30247, pts: 156
+stream: 0 frame: 180 size: 4512
+stream: 1 frame: 180 size: 14967
+stream: 2 frame: 180 size: 30239
+SVC frame: 157, kf: 0, size: 14437, pts: 157
+stream: 0 frame: 181 size: 3651
+stream: 1 frame: 181 size: 7499
+stream: 2 frame: 181 size: 14429
+SVC frame: 158, kf: 0, size: 24749, pts: 158
+stream: 0 frame: 182 size: 6848
+stream: 1 frame: 182 size: 12383
+stream: 2 frame: 182 size: 24741
+SVC frame: 159, kf: 0, size: 27731, pts: 159
+stream: 0 frame: 183 size: 7246
+stream: 1 frame: 183 size: 16577
+stream: 2 frame: 183 size: 27723
+SVC frame: 160, kf: 0, size: 39667, pts: 160
+stream: 0 frame: 184 size: 5587
+stream: 1 frame: 184 size: 18297
+stream: 2 frame: 184 size: 39659
+SVC frame: 161, kf: 0, size: 15238, pts: 161
+stream: 0 frame: 185 size: 3371
+stream: 1 frame: 185 size: 8797
+stream: 2 frame: 185 size: 15230
+SVC frame: 162, kf: 0, size: 21017, pts: 162
+stream: 0 frame: 186 size: 3434
+stream: 1 frame: 186 size: 9562
+stream: 2 frame: 186 size: 21009
+SVC frame: 163, kf: 0, size: 22933, pts: 163
+stream: 0 frame: 187 size: 5449
+stream: 1 frame: 187 size: 11492
+stream: 2 frame: 187 size: 22925
+SVC frame: 164, kf: 0, size: 36641, pts: 164
+stream: 0 frame: 188 size: 6818
+stream: 1 frame: 188 size: 18618
+stream: 2 frame: 188 size: 36633
+SVC frame: 165, kf: 0, size: 22938, pts: 165
+stream: 0 frame: 189 size: 5132
+stream: 1 frame: 189 size: 11873
+stream: 2 frame: 189 size: 22930
+SVC frame: 166, kf: 0, size: 20257, pts: 166
+stream: 0 frame: 190 size: 3105
+stream: 1 frame: 190 size: 10045
+stream: 2 frame: 190 size: 20249
+SVC frame: 167, kf: 0, size: 27765, pts: 167
+stream: 0 frame: 191 size: 7857
+stream: 1 frame: 191 size: 14063
+stream: 2 frame: 191 size: 27757
+SVC frame: 168, kf: 0, size: 42607, pts: 168
+stream: 0 frame: 192 size: 3244
+stream: 1 frame: 192 size: 16168
+stream: 2 frame: 192 size: 42599
+SVC frame: 169, kf: 0, size: 11560, pts: 169
+stream: 0 frame: 193 size: 3530
+stream: 1 frame: 193 size: 7215
+stream: 2 frame: 193 size: 11552
+SVC frame: 170, kf: 0, size: 41549, pts: 170
+stream: 0 frame: 194 size: 9116
+stream: 1 frame: 194 size: 19230
+stream: 2 frame: 194 size: 41541
+SVC frame: 171, kf: 0, size: 10697, pts: 171
+stream: 0 frame: 195 size: 2542
+stream: 1 frame: 195 size: 6432
+stream: 2 frame: 195 size: 10689
+SVC frame: 172, kf: 0, size: 24687, pts: 172
+stream: 0 frame: 196 size: 4380
+stream: 1 frame: 196 size: 12387
+stream: 2 frame: 196 size: 24679
+SVC frame: 173, kf: 0, size: 25151, pts: 173
+stream: 0 frame: 197 size: 8397
+stream: 1 frame: 197 size: 13802
+stream: 2 frame: 197 size: 25143
+SVC frame: 174, kf: 0, size: 30208, pts: 174
+stream: 0 frame: 198 size: 7937
+stream: 1 frame: 198 size: 19980
+stream: 2 frame: 198 size: 30200
+SVC frame: 175, kf: 0, size: 33507, pts: 175
+stream: 0 frame: 199 size: 6927
+stream: 1 frame: 199 size: 18114
+stream: 2 frame: 199 size: 33499
+SVC frame: 176, kf: 0, size: 30527, pts: 176
+stream: 0 frame: 200 size: 2677
+stream: 1 frame: 200 size: 9318
+stream: 2 frame: 200 size: 30519
+SVC frame: 177, kf: 0, size: 18227, pts: 177
+stream: 0 frame: 201 size: 4316
+stream: 1 frame: 201 size: 10529
+stream: 2 frame: 201 size: 18219
+SVC frame: 178, kf: 0, size: 19928, pts: 178
+stream: 0 frame: 202 size: 3469
+stream: 1 frame: 202 size: 10147
+stream: 2 frame: 202 size: 19920
+SVC frame: 179, kf: 0, size: 20895, pts: 179
+stream: 0 frame: 203 size: 4932
+stream: 1 frame: 203 size: 11239
+stream: 2 frame: 203 size: 20887
+SVC frame: 180, kf: 0, size: 41612, pts: 180
+stream: 0 frame: 204 size: 8090
+stream: 1 frame: 204 size: 20778
+stream: 2 frame: 204 size: 41604
+SVC frame: 181, kf: 0, size: 10421, pts: 181
+stream: 0 frame: 205 size: 1844
+stream: 1 frame: 205 size: 4500
+stream: 2 frame: 205 size: 10413
+SVC frame: 182, kf: 0, size: 33070, pts: 182
+stream: 0 frame: 206 size: 4672
+stream: 1 frame: 206 size: 12830
+stream: 2 frame: 206 size: 33062
+SVC frame: 183, kf: 0, size: 14565, pts: 183
+stream: 0 frame: 207 size: 4045
+stream: 1 frame: 207 size: 8947
+stream: 2 frame: 207 size: 14557
+SVC frame: 184, kf: 0, size: 31514, pts: 184
+stream: 0 frame: 208 size: 5548
+stream: 1 frame: 208 size: 15075
+stream: 2 frame: 208 size: 31506
+SVC frame: 185, kf: 0, size: 18898, pts: 185
+stream: 0 frame: 209 size: 4884
+stream: 1 frame: 209 size: 10870
+stream: 2 frame: 209 size: 18890
+SVC frame: 186, kf: 0, size: 24544, pts: 186
+stream: 0 frame: 210 size: 4695
+stream: 1 frame: 210 size: 13685
+stream: 2 frame: 210 size: 24536
+SVC frame: 187, kf: 0, size: 21549, pts: 187
+stream: 0 frame: 211 size: 5281
+stream: 1 frame: 211 size: 11535
+stream: 2 frame: 211 size: 21541
+SVC frame: 188, kf: 0, size: 29081, pts: 188
+stream: 0 frame: 212 size: 5509
+stream: 1 frame: 212 size: 13568
+stream: 2 frame: 212 size: 29073
+SVC frame: 189, kf: 0, size: 25199, pts: 189
+stream: 0 frame: 213 size: 5399
+stream: 1 frame: 213 size: 13791
+stream: 2 frame: 213 size: 25191
+SVC frame: 190, kf: 0, size: 24865, pts: 190
+stream: 0 frame: 214 size: 4381
+stream: 1 frame: 214 size: 11938
+stream: 2 frame: 214 size: 24857
+SVC frame: 191, kf: 0, size: 18546, pts: 191
+stream: 0 frame: 215 size: 3735
+stream: 1 frame: 215 size: 9369
+stream: 2 frame: 215 size: 18538
+SVC frame: 192, kf: 0, size: 40539, pts: 192
+stream: 0 frame: 216 size: 6110
+stream: 1 frame: 216 size: 16254
+stream: 2 frame: 216 size: 40531
+SVC frame: 193, kf: 0, size: 17156, pts: 193
+stream: 0 frame: 217 size: 3778
+stream: 1 frame: 217 size: 9182
+stream: 2 frame: 217 size: 17148
+SVC frame: 194, kf: 0, size: 19021, pts: 194
+stream: 0 frame: 218 size: 4337
+stream: 1 frame: 218 size: 10524
+stream: 2 frame: 218 size: 19013
+SVC frame: 195, kf: 0, size: 23521, pts: 195
+stream: 0 frame: 219 size: 6299
+stream: 1 frame: 219 size: 13615
+stream: 2 frame: 219 size: 23513
+SVC frame: 196, kf: 0, size: 26013, pts: 196
+stream: 0 frame: 220 size: 4071
+stream: 1 frame: 220 size: 12617
+stream: 2 frame: 220 size: 26005
+SVC frame: 197, kf: 0, size: 19343, pts: 197
+stream: 0 frame: 221 size: 4369
+stream: 1 frame: 221 size: 10544
+stream: 2 frame: 221 size: 19335
+SVC frame: 198, kf: 0, size: 23176, pts: 198
+stream: 0 frame: 222 size: 4739
+stream: 1 frame: 222 size: 12066
+stream: 2 frame: 222 size: 23168
+SVC frame: 199, kf: 0, size: 24972, pts: 199
+stream: 0 frame: 223 size: 5754
+stream: 1 frame: 223 size: 13415
+stream: 2 frame: 223 size: 24964
+SVC frame: 200, kf: 1, size: 35528, pts: 200
+stream: 0 frame: 224 size: 14683
+stream: 1 frame: 224 size: 16044
+stream: 2 frame: 224 size: 35520
+SVC frame: 201, kf: 0, size: 17985, pts: 201
+stream: 0 frame: 225 size: 6089
+stream: 1 frame: 225 size: 16839
+stream: 2 frame: 225 size: 17977
+SVC frame: 202, kf: 0, size: 32460, pts: 202
+stream: 0 frame: 226 size: 8771
+stream: 1 frame: 226 size: 26815
+stream: 2 frame: 226 size: 32452
+SVC frame: 203, kf: 0, size: 16566, pts: 203
+stream: 0 frame: 227 size: 2960
+stream: 1 frame: 227 size: 8973
+stream: 2 frame: 227 size: 16558
+SVC frame: 204, kf: 0, size: 38986, pts: 204
+stream: 0 frame: 228 size: 4757
+stream: 1 frame: 228 size: 13468
+stream: 2 frame: 228 size: 38978
+SVC frame: 205, kf: 0, size: 26753, pts: 205
+stream: 0 frame: 229 size: 5063
+stream: 1 frame: 229 size: 12390
+stream: 2 frame: 229 size: 26745
+SVC frame: 206, kf: 0, size: 30378, pts: 206
+stream: 0 frame: 230 size: 4610
+stream: 1 frame: 230 size: 14032
+stream: 2 frame: 230 size: 30370
+SVC frame: 207, kf: 0, size: 20203, pts: 207
+stream: 0 frame: 231 size: 3421
+stream: 1 frame: 231 size: 8618
+stream: 2 frame: 231 size: 20195
+SVC frame: 208, kf: 0, size: 31785, pts: 208
+stream: 0 frame: 232 size: 4733
+stream: 1 frame: 232 size: 12684
+stream: 2 frame: 232 size: 31777
+SVC frame: 209, kf: 0, size: 13129, pts: 209
+stream: 0 frame: 233 size: 2656
+stream: 1 frame: 233 size: 6656
+stream: 2 frame: 233 size: 13121
+SVC frame: 210, kf: 0, size: 23152, pts: 210
+stream: 0 frame: 234 size: 5899
+stream: 1 frame: 234 size: 10912
+stream: 2 frame: 234 size: 23144
+SVC frame: 211, kf: 0, size: 19655, pts: 211
+stream: 0 frame: 235 size: 3275
+stream: 1 frame: 235 size: 11826
+stream: 2 frame: 235 size: 19647
+SVC frame: 212, kf: 0, size: 32080, pts: 212
+stream: 0 frame: 236 size: 4039
+stream: 1 frame: 236 size: 11676
+stream: 2 frame: 236 size: 32072
+SVC frame: 213, kf: 0, size: 17023, pts: 213
+stream: 0 frame: 237 size: 4126
+stream: 1 frame: 237 size: 9828
+stream: 2 frame: 237 size: 17015
+SVC frame: 214, kf: 0, size: 21575, pts: 214
+stream: 0 frame: 238 size: 4373
+stream: 1 frame: 238 size: 11460
+stream: 2 frame: 238 size: 21567
+SVC frame: 215, kf: 0, size: 28907, pts: 215
+stream: 0 frame: 239 size: 7620
+stream: 1 frame: 239 size: 15789
+stream: 2 frame: 239 size: 28899
+SVC frame: 216, kf: 0, size: 39123, pts: 216
+stream: 0 frame: 240 size: 5208
+stream: 1 frame: 240 size: 17161
+stream: 2 frame: 240 size: 39115
+SVC frame: 217, kf: 0, size: 13165, pts: 217
+stream: 0 frame: 241 size: 2853
+stream: 1 frame: 241 size: 6470
+stream: 2 frame: 241 size: 13157
+SVC frame: 218, kf: 0, size: 17772, pts: 218
+stream: 0 frame: 242 size: 3025
+stream: 1 frame: 242 size: 9356
+stream: 2 frame: 242 size: 17764
+SVC frame: 219, kf: 0, size: 21320, pts: 219
+stream: 0 frame: 243 size: 5173
+stream: 1 frame: 243 size: 11796
+stream: 2 frame: 243 size: 21312
+SVC frame: 220, kf: 0, size: 33765, pts: 220
+stream: 0 frame: 244 size: 6662
+stream: 1 frame: 244 size: 16145
+stream: 2 frame: 244 size: 33757
+SVC frame: 221, kf: 0, size: 19397, pts: 221
+stream: 0 frame: 245 size: 3444
+stream: 1 frame: 245 size: 10117
+stream: 2 frame: 245 size: 19389
+SVC frame: 222, kf: 0, size: 30465, pts: 222
+stream: 0 frame: 246 size: 4188
+stream: 1 frame: 246 size: 11187
+stream: 2 frame: 246 size: 30457
+SVC frame: 223, kf: 0, size: 18875, pts: 223
+stream: 0 frame: 247 size: 4553
+stream: 1 frame: 247 size: 10600
+stream: 2 frame: 247 size: 18867
+SVC frame: 224, kf: 0, size: 30697, pts: 224
+stream: 0 frame: 248 size: 5506
+stream: 1 frame: 248 size: 14034
+stream: 2 frame: 248 size: 30689
+SVC frame: 225, kf: 0, size: 23113, pts: 225
+stream: 0 frame: 249 size: 5499
+stream: 1 frame: 249 size: 12891
+stream: 2 frame: 249 size: 23105
+SVC frame: 226, kf: 0, size: 22051, pts: 226
+stream: 0 frame: 250 size: 3683
+stream: 1 frame: 250 size: 11609
+stream: 2 frame: 250 size: 22043
+SVC frame: 227, kf: 0, size: 23816, pts: 227
+stream: 0 frame: 251 size: 5227
+stream: 1 frame: 251 size: 12551
+stream: 2 frame: 251 size: 23808
+SVC frame: 228, kf: 0, size: 32555, pts: 228
+stream: 0 frame: 252 size: 4215
+stream: 1 frame: 252 size: 13175
+stream: 2 frame: 252 size: 32547
+SVC frame: 229, kf: 0, size: 21364, pts: 229
+stream: 0 frame: 253 size: 6300
+stream: 1 frame: 253 size: 11279
+stream: 2 frame: 253 size: 21356
+SVC frame: 230, kf: 0, size: 30451, pts: 230
+stream: 0 frame: 254 size: 7181
+stream: 1 frame: 254 size: 17608
+stream: 2 frame: 254 size: 30443
+SVC frame: 231, kf: 0, size: 17307, pts: 231
+stream: 0 frame: 255 size: 3170
+stream: 1 frame: 255 size: 8570
+stream: 2 frame: 255 size: 17299
+SVC frame: 232, kf: 0, size: 31456, pts: 232
+stream: 0 frame: 256 size: 4691
+stream: 1 frame: 256 size: 13291
+stream: 2 frame: 256 size: 31448
+SVC frame: 233, kf: 0, size: 11148, pts: 233
+stream: 0 frame: 257 size: 2363
+stream: 1 frame: 257 size: 5770
+stream: 2 frame: 257 size: 11140
+SVC frame: 234, kf: 0, size: 19816, pts: 234
+stream: 0 frame: 258 size: 4966
+stream: 1 frame: 258 size: 9450
+stream: 2 frame: 258 size: 19808
+SVC frame: 235, kf: 0, size: 27638, pts: 235
+stream: 0 frame: 259 size: 6015
+stream: 1 frame: 259 size: 17397
+stream: 2 frame: 259 size: 27630
+SVC frame: 236, kf: 0, size: 23418, pts: 236
+stream: 0 frame: 260 size: 2680
+stream: 1 frame: 260 size: 8566
+stream: 2 frame: 260 size: 23410
+SVC frame: 237, kf: 0, size: 14959, pts: 237
+stream: 0 frame: 261 size: 3506
+stream: 1 frame: 261 size: 8575
+stream: 2 frame: 261 size: 14951
+SVC frame: 238, kf: 0, size: 23014, pts: 238
+stream: 0 frame: 262 size: 5693
+stream: 1 frame: 262 size: 13910
+stream: 2 frame: 262 size: 23006
+SVC frame: 239, kf: 0, size: 20502, pts: 239
+stream: 0 frame: 263 size: 3851
+stream: 1 frame: 263 size: 9283
+stream: 2 frame: 263 size: 20494
+SVC frame: 240, kf: 0, size: 52573, pts: 240
+stream: 0 frame: 264 size: 7759
+stream: 1 frame: 264 size: 21551
+stream: 2 frame: 264 size: 52565
+SVC frame: 241, kf: 0, size: 8294, pts: 241
+stream: 0 frame: 265 size: 2013
+stream: 1 frame: 265 size: 4976
+stream: 2 frame: 265 size: 8286
+SVC frame: 242, kf: 0, size: 31162, pts: 242
+stream: 0 frame: 266 size: 4151
+stream: 1 frame: 266 size: 11727
+stream: 2 frame: 266 size: 31154
+SVC frame: 243, kf: 0, size: 22253, pts: 243
+stream: 0 frame: 267 size: 7578
+stream: 1 frame: 267 size: 12238
+stream: 2 frame: 267 size: 22245
+SVC frame: 244, kf: 0, size: 24543, pts: 244
+stream: 0 frame: 268 size: 5236
+stream: 1 frame: 268 size: 16739
+stream: 2 frame: 268 size: 24535
+SVC frame: 245, kf: 0, size: 35410, pts: 245
+stream: 0 frame: 269 size: 6963
+stream: 1 frame: 269 size: 16800
+stream: 2 frame: 269 size: 35402
+SVC frame: 246, kf: 0, size: 20257, pts: 246
+stream: 0 frame: 270 size: 2679
+stream: 1 frame: 270 size: 9605
+stream: 2 frame: 270 size: 20249
+SVC frame: 247, kf: 0, size: 16574, pts: 247
+stream: 0 frame: 271 size: 3848
+stream: 1 frame: 271 size: 8794
+stream: 2 frame: 271 size: 16566
+SVC frame: 248, kf: 0, size: 38974, pts: 248
+stream: 0 frame: 272 size: 5656
+stream: 1 frame: 272 size: 15972
+stream: 2 frame: 272 size: 38966
+SVC frame: 249, kf: 0, size: 26212, pts: 249
+stream: 0 frame: 273 size: 4216
+stream: 1 frame: 273 size: 10605
+stream: 2 frame: 273 size: 26204
+SVC frame: 250, kf: 0, size: 18056, pts: 250
+stream: 0 frame: 274 size: 5058
+stream: 1 frame: 274 size: 10822
+stream: 2 frame: 274 size: 18048
+SVC frame: 251, kf: 0, size: 14477, pts: 251
+stream: 0 frame: 275 size: 3493
+stream: 1 frame: 275 size: 8337
+stream: 2 frame: 275 size: 14469
+SVC frame: 252, kf: 0, size: 36632, pts: 252
+stream: 0 frame: 276 size: 6992
+stream: 1 frame: 276 size: 19371
+stream: 2 frame: 276 size: 36624
+SVC frame: 253, kf: 0, size: 15962, pts: 253
+stream: 0 frame: 277 size: 3625
+stream: 1 frame: 277 size: 8571
+stream: 2 frame: 277 size: 15954
+SVC frame: 254, kf: 0, size: 22936, pts: 254
+stream: 0 frame: 278 size: 4337
+stream: 1 frame: 278 size: 11372
+stream: 2 frame: 278 size: 22928
+SVC frame: 255, kf: 0, size: 22749, pts: 255
+stream: 0 frame: 279 size: 5771
+stream: 1 frame: 279 size: 12050
+stream: 2 frame: 279 size: 22741
+SVC frame: 256, kf: 0, size: 43668, pts: 256
+stream: 0 frame: 280 size: 5149
+stream: 1 frame: 280 size: 17382
+stream: 2 frame: 280 size: 43660
+SVC frame: 257, kf: 0, size: 20923, pts: 257
+stream: 0 frame: 281 size: 8388
+stream: 1 frame: 281 size: 14480
+stream: 2 frame: 281 size: 20915
+SVC frame: 258, kf: 0, size: 30340, pts: 258
+stream: 0 frame: 282 size: 8018
+stream: 1 frame: 282 size: 17356
+stream: 2 frame: 282 size: 30332
+SVC frame: 259, kf: 0, size: 22533, pts: 259
+stream: 0 frame: 283 size: 3875
+stream: 1 frame: 283 size: 11445
+stream: 2 frame: 283 size: 22525
+SVC frame: 260, kf: 0, size: 28550, pts: 260
+stream: 0 frame: 284 size: 4511
+stream: 1 frame: 284 size: 13088
+stream: 2 frame: 284 size: 28542
+SVC frame: 261, kf: 0, size: 17922, pts: 261
+stream: 0 frame: 285 size: 3216
+stream: 1 frame: 285 size: 9400
+stream: 2 frame: 285 size: 17914
+SVC frame: 262, kf: 0, size: 24757, pts: 262
+stream: 0 frame: 286 size: 4883
+stream: 1 frame: 286 size: 12723
+stream: 2 frame: 286 size: 24749
+SVC frame: 263, kf: 0, size: 15938, pts: 263
+stream: 0 frame: 287 size: 3284
+stream: 1 frame: 287 size: 7892
+stream: 2 frame: 287 size: 15930
+SVC frame: 264, kf: 0, size: 48386, pts: 264
+stream: 0 frame: 288 size: 7786
+stream: 1 frame: 288 size: 21125
+stream: 2 frame: 288 size: 48378
+SVC frame: 265, kf: 0, size: 15880, pts: 265
+stream: 0 frame: 289 size: 3866
+stream: 1 frame: 289 size: 8856
+stream: 2 frame: 289 size: 15872
+SVC frame: 266, kf: 0, size: 27071, pts: 266
+stream: 0 frame: 290 size: 3505
+stream: 1 frame: 290 size: 10185
+stream: 2 frame: 290 size: 27063
+SVC frame: 267, kf: 0, size: 11919, pts: 267
+stream: 0 frame: 291 size: 3497
+stream: 1 frame: 291 size: 7138
+stream: 2 frame: 291 size: 11911
+SVC frame: 268, kf: 0, size: 23002, pts: 268
+stream: 0 frame: 292 size: 5293
+stream: 1 frame: 292 size: 15742
+stream: 2 frame: 292 size: 22994
+SVC frame: 269, kf: 0, size: 22840, pts: 269
+stream: 0 frame: 293 size: 4414
+stream: 1 frame: 293 size: 9378
+stream: 2 frame: 293 size: 22832
+SVC frame: 270, kf: 0, size: 35672, pts: 270
+stream: 0 frame: 294 size: 8242
+stream: 1 frame: 294 size: 19006
+stream: 2 frame: 294 size: 35664
+SVC frame: 271, kf: 0, size: 21196, pts: 271
+stream: 0 frame: 295 size: 4248
+stream: 1 frame: 295 size: 11349
+stream: 2 frame: 295 size: 21188
+SVC frame: 272, kf: 0, size: 34579, pts: 272
+stream: 0 frame: 296 size: 4546
+stream: 1 frame: 296 size: 13412
+stream: 2 frame: 296 size: 34571
+SVC frame: 273, kf: 0, size: 13706, pts: 273
+stream: 0 frame: 297 size: 2873
+stream: 1 frame: 297 size: 7310
+stream: 2 frame: 297 size: 13698
+SVC frame: 274, kf: 0, size: 22363, pts: 274
+stream: 0 frame: 298 size: 5255
+stream: 1 frame: 298 size: 10983
+stream: 2 frame: 298 size: 22355
+SVC frame: 275, kf: 0, size: 21556, pts: 275
+stream: 0 frame: 299 size: 4982
+stream: 1 frame: 299 size: 11605
+stream: 2 frame: 299 size: 21548
+SVC frame: 276, kf: 0, size: 49627, pts: 276
+stream: 0 frame: 300 size: 7535
+stream: 1 frame: 300 size: 24628
+stream: 2 frame: 300 size: 49619
+SVC frame: 277, kf: 0, size: 10479, pts: 277
+stream: 0 frame: 301 size: 2283
+stream: 1 frame: 301 size: 5488
+stream: 2 frame: 301 size: 10471
+SVC frame: 278, kf: 0, size: 22396, pts: 278
+stream: 0 frame: 302 size: 4762
+stream: 1 frame: 302 size: 11156
+stream: 2 frame: 302 size: 22388
+SVC frame: 279, kf: 0, size: 27757, pts: 279
+stream: 0 frame: 303 size: 6393
+stream: 1 frame: 303 size: 13038
+stream: 2 frame: 303 size: 27749
+SVC frame: 280, kf: 0, size: 40631, pts: 280
+stream: 0 frame: 304 size: 6367
+stream: 1 frame: 304 size: 18975
+stream: 2 frame: 304 size: 40623
+SVC frame: 281, kf: 0, size: 10120, pts: 281
+stream: 0 frame: 305 size: 2712
+stream: 1 frame: 305 size: 5926
+stream: 2 frame: 305 size: 10112
+SVC frame: 282, kf: 0, size: 22826, pts: 282
+stream: 0 frame: 306 size: 4610
+stream: 1 frame: 306 size: 12376
+stream: 2 frame: 306 size: 22818
+SVC frame: 283, kf: 0, size: 19797, pts: 283
+stream: 0 frame: 307 size: 4238
+stream: 1 frame: 307 size: 9543
+stream: 2 frame: 307 size: 19789
+SVC frame: 284, kf: 0, size: 31575, pts: 284
+stream: 0 frame: 308 size: 5031
+stream: 1 frame: 308 size: 15875
+stream: 2 frame: 308 size: 31567
+SVC frame: 285, kf: 0, size: 28872, pts: 285
+stream: 0 frame: 309 size: 8703
+stream: 1 frame: 309 size: 14267
+stream: 2 frame: 309 size: 28864
+SVC frame: 286, kf: 0, size: 33257, pts: 286
+stream: 0 frame: 310 size: 5724
+stream: 1 frame: 310 size: 16345
+stream: 2 frame: 310 size: 33249
+SVC frame: 287, kf: 0, size: 22234, pts: 287
+stream: 0 frame: 311 size: 5673
+stream: 1 frame: 311 size: 13248
+stream: 2 frame: 311 size: 22226
+SVC frame: 288, kf: 0, size: 35258, pts: 288
+stream: 0 frame: 312 size: 6848
+stream: 1 frame: 312 size: 15762
+stream: 2 frame: 312 size: 35250
+SVC frame: 289, kf: 0, size: 29029, pts: 289
+stream: 0 frame: 313 size: 7975
+stream: 1 frame: 313 size: 16336
+stream: 2 frame: 313 size: 29021
+SVC frame: 290, kf: 0, size: 17036, pts: 290
+stream: 0 frame: 314 size: 2548
+stream: 1 frame: 314 size: 8748
+stream: 2 frame: 314 size: 17028
+SVC frame: 291, kf: 0, size: 21073, pts: 291
+stream: 0 frame: 315 size: 4638
+stream: 1 frame: 315 size: 11581
+stream: 2 frame: 315 size: 21065
+SVC frame: 292, kf: 0, size: 28766, pts: 292
+stream: 0 frame: 316 size: 4321
+stream: 1 frame: 316 size: 13560
+stream: 2 frame: 316 size: 28758
+SVC frame: 293, kf: 0, size: 16965, pts: 293
+stream: 0 frame: 317 size: 4040
+stream: 1 frame: 317 size: 8846
+stream: 2 frame: 317 size: 16957
+SVC frame: 294, kf: 0, size: 21432, pts: 294
+stream: 0 frame: 318 size: 4148
+stream: 1 frame: 318 size: 10451
+stream: 2 frame: 318 size: 21424
+SVC frame: 295, kf: 0, size: 24060, pts: 295
+stream: 0 frame: 319 size: 5194
+stream: 1 frame: 319 size: 12720
+stream: 2 frame: 319 size: 24052
+SVC frame: 296, kf: 0, size: 39933, pts: 296
+stream: 0 frame: 320 size: 5921
+stream: 1 frame: 320 size: 16581
+stream: 2 frame: 320 size: 39925
+SVC frame: 297, kf: 0, size: 11370, pts: 297
+stream: 0 frame: 321 size: 2756
+stream: 1 frame: 321 size: 6418
+stream: 2 frame: 321 size: 11362
+SVC frame: 298, kf: 0, size: 18669, pts: 298
+stream: 0 frame: 322 size: 3395
+stream: 1 frame: 322 size: 9493
+stream: 2 frame: 322 size: 18661
+SVC frame: 299, kf: 0, size: 21248, pts: 299
+stream: 0 frame: 323 size: 5598
+stream: 1 frame: 323 size: 11277
+stream: 2 frame: 323 size: 21240
+SVC frame: 300, kf: 1, size: 42008, pts: 300
+stream: 0 frame: 324 size: 15027
+stream: 1 frame: 324 size: 23837
+stream: 2 frame: 324 size: 42000
+SVC frame: 301, kf: 0, size: 35304, pts: 301
+stream: 0 frame: 325 size: 7317
+stream: 1 frame: 325 size: 20855
+stream: 2 frame: 325 size: 35296
+SVC frame: 302, kf: 0, size: 19604, pts: 302
+stream: 0 frame: 326 size: 2947
+stream: 1 frame: 326 size: 9944
+stream: 2 frame: 326 size: 19596
+SVC frame: 303, kf: 0, size: 18566, pts: 303
+stream: 0 frame: 327 size: 3516
+stream: 1 frame: 327 size: 9440
+stream: 2 frame: 327 size: 18558
+SVC frame: 304, kf: 0, size: 38877, pts: 304
+stream: 0 frame: 328 size: 5797
+stream: 1 frame: 328 size: 14522
+stream: 2 frame: 328 size: 38869
+SVC frame: 305, kf: 0, size: 12481, pts: 305
+stream: 0 frame: 329 size: 2686
+stream: 1 frame: 329 size: 6739
+stream: 2 frame: 329 size: 12473
+SVC frame: 306, kf: 0, size: 32778, pts: 306
+stream: 0 frame: 330 size: 5152
+stream: 1 frame: 330 size: 12733
+stream: 2 frame: 330 size: 32770
+SVC frame: 307, kf: 0, size: 14278, pts: 307
+stream: 0 frame: 331 size: 3361
+stream: 1 frame: 331 size: 7965
+stream: 2 frame: 331 size: 14270
+SVC frame: 308, kf: 0, size: 25581, pts: 308
+stream: 0 frame: 332 size: 4751
+stream: 1 frame: 332 size: 14618
+stream: 2 frame: 332 size: 25573
+SVC frame: 309, kf: 0, size: 14639, pts: 309
+stream: 0 frame: 333 size: 3586
+stream: 1 frame: 333 size: 7623
+stream: 2 frame: 333 size: 14631
+SVC frame: 310, kf: 0, size: 22602, pts: 310
+stream: 0 frame: 334 size: 4407
+stream: 1 frame: 334 size: 10474
+stream: 2 frame: 334 size: 22594
+SVC frame: 311, kf: 0, size: 27578, pts: 311
+stream: 0 frame: 335 size: 6634
+stream: 1 frame: 335 size: 15243
+stream: 2 frame: 335 size: 27570
+SVC frame: 312, kf: 0, size: 40468, pts: 312
+stream: 0 frame: 336 size: 7772
+stream: 1 frame: 336 size: 20179
+stream: 2 frame: 336 size: 40460
+SVC frame: 313, kf: 0, size: 21707, pts: 313
+stream: 0 frame: 337 size: 5124
+stream: 1 frame: 337 size: 13136
+stream: 2 frame: 337 size: 21699
+SVC frame: 314, kf: 0, size: 30217, pts: 314
+stream: 0 frame: 338 size: 6322
+stream: 1 frame: 338 size: 16021
+stream: 2 frame: 338 size: 30209
+SVC frame: 315, kf: 0, size: 19599, pts: 315
+stream: 0 frame: 339 size: 3219
+stream: 1 frame: 339 size: 10285
+stream: 2 frame: 339 size: 19591
+SVC frame: 316, kf: 0, size: 38213, pts: 316
+stream: 0 frame: 340 size: 5656
+stream: 1 frame: 340 size: 15368
+stream: 2 frame: 340 size: 38205
+SVC frame: 317, kf: 0, size: 12220, pts: 317
+stream: 0 frame: 341 size: 1951
+stream: 1 frame: 341 size: 6310
+stream: 2 frame: 341 size: 12212
+SVC frame: 318, kf: 0, size: 24341, pts: 318
+stream: 0 frame: 342 size: 3924
+stream: 1 frame: 342 size: 11589
+stream: 2 frame: 342 size: 24333
+SVC frame: 319, kf: 0, size: 16862, pts: 319
+stream: 0 frame: 343 size: 4415
+stream: 1 frame: 343 size: 8798
+stream: 2 frame: 343 size: 16854
+SVC frame: 320, kf: 0, size: 41066, pts: 320
+stream: 0 frame: 344 size: 6447
+stream: 1 frame: 344 size: 18673
+stream: 2 frame: 344 size: 41058
+SVC frame: 321, kf: 0, size: 15725, pts: 321
+stream: 0 frame: 345 size: 3993
+stream: 1 frame: 345 size: 8549
+stream: 2 frame: 345 size: 15717
+SVC frame: 322, kf: 0, size: 19224, pts: 322
+stream: 0 frame: 346 size: 3491
+stream: 1 frame: 346 size: 9969
+stream: 2 frame: 346 size: 19216
+SVC frame: 323, kf: 0, size: 16523, pts: 323
+stream: 0 frame: 347 size: 3817
+stream: 1 frame: 347 size: 8651
+stream: 2 frame: 347 size: 16515
+SVC frame: 324, kf: 0, size: 34532, pts: 324
+stream: 0 frame: 348 size: 5778
+stream: 1 frame: 348 size: 17258
+stream: 2 frame: 348 size: 34524
+SVC frame: 325, kf: 0, size: 15963, pts: 325
+stream: 0 frame: 349 size: 3841
+stream: 1 frame: 349 size: 8350
+stream: 2 frame: 349 size: 15955
+SVC frame: 326, kf: 0, size: 40768, pts: 326
+stream: 0 frame: 350 size: 7251
+stream: 1 frame: 350 size: 17778
+stream: 2 frame: 350 size: 40760
+SVC frame: 327, kf: 0, size: 22159, pts: 327
+stream: 0 frame: 351 size: 5833
+stream: 1 frame: 351 size: 12214
+stream: 2 frame: 351 size: 22151
+SVC frame: 328, kf: 0, size: 36985, pts: 328
+stream: 0 frame: 352 size: 6320
+stream: 1 frame: 352 size: 18347
+stream: 2 frame: 352 size: 36977
+SVC frame: 329, kf: 0, size: 13021, pts: 329
+stream: 0 frame: 353 size: 2523
+stream: 1 frame: 353 size: 7699
+stream: 2 frame: 353 size: 13013
+SVC frame: 330, kf: 0, size: 20014, pts: 330
+stream: 0 frame: 354 size: 3449
+stream: 1 frame: 354 size: 9920
+stream: 2 frame: 354 size: 20006
+SVC frame: 331, kf: 0, size: 23165, pts: 331
+stream: 0 frame: 355 size: 5906
+stream: 1 frame: 355 size: 11552
+stream: 2 frame: 355 size: 23157
+SVC frame: 332, kf: 0, size: 28384, pts: 332
+stream: 0 frame: 356 size: 4107
+stream: 1 frame: 356 size: 13796
+stream: 2 frame: 356 size: 28376
+SVC frame: 333, kf: 0, size: 14181, pts: 333
+stream: 0 frame: 357 size: 3493
+stream: 1 frame: 357 size: 7518
+stream: 2 frame: 357 size: 14173
+SVC frame: 334, kf: 0, size: 24230, pts: 334
+stream: 0 frame: 358 size: 5576
+stream: 1 frame: 358 size: 12484
+stream: 2 frame: 358 size: 24222
+SVC frame: 335, kf: 0, size: 14990, pts: 335
+stream: 0 frame: 359 size: 3278
+stream: 1 frame: 359 size: 8295
+stream: 2 frame: 359 size: 14982
+SVC frame: 336, kf: 0, size: 53637, pts: 336
+stream: 0 frame: 360 size: 7669
+stream: 1 frame: 360 size: 26024
+stream: 2 frame: 360 size: 53629
+SVC frame: 337, kf: 0, size: 10587, pts: 337
+stream: 0 frame: 361 size: 2643
+stream: 1 frame: 361 size: 6051
+stream: 2 frame: 361 size: 10579
+SVC frame: 338, kf: 0, size: 25290, pts: 338
+stream: 0 frame: 362 size: 5127
+stream: 1 frame: 362 size: 12011
+stream: 2 frame: 362 size: 25282
+SVC frame: 339, kf: 0, size: 22189, pts: 339
+stream: 0 frame: 363 size: 5012
+stream: 1 frame: 363 size: 11081
+stream: 2 frame: 363 size: 22181
+SVC frame: 340, kf: 0, size: 34353, pts: 340
+stream: 0 frame: 364 size: 5285
+stream: 1 frame: 364 size: 16493
+stream: 2 frame: 364 size: 34345
+SVC frame: 341, kf: 0, size: 22475, pts: 341
+stream: 0 frame: 365 size: 5858
+stream: 1 frame: 365 size: 11633
+stream: 2 frame: 365 size: 22467
+SVC frame: 342, kf: 0, size: 26911, pts: 342
+stream: 0 frame: 366 size: 5705
+stream: 1 frame: 366 size: 13844
+stream: 2 frame: 366 size: 26903
+SVC frame: 343, kf: 0, size: 25287, pts: 343
+stream: 0 frame: 367 size: 5430
+stream: 1 frame: 367 size: 13193
+stream: 2 frame: 367 size: 25279
+SVC frame: 344, kf: 0, size: 34562, pts: 344
+stream: 0 frame: 368 size: 4271
+stream: 1 frame: 368 size: 13152
+stream: 2 frame: 368 size: 34554
+SVC frame: 345, kf: 0, size: 17818, pts: 345
+stream: 0 frame: 369 size: 4538
+stream: 1 frame: 369 size: 10028
+stream: 2 frame: 369 size: 17810
+SVC frame: 346, kf: 0, size: 36967, pts: 346
+stream: 0 frame: 370 size: 7159
+stream: 1 frame: 370 size: 17405
+stream: 2 frame: 370 size: 36959
+SVC frame: 347, kf: 0, size: 11743, pts: 347
+stream: 0 frame: 371 size: 2496
+stream: 1 frame: 371 size: 6642
+stream: 2 frame: 371 size: 11735
+SVC frame: 348, kf: 0, size: 29709, pts: 348
+stream: 0 frame: 372 size: 5106
+stream: 1 frame: 372 size: 14908
+stream: 2 frame: 372 size: 29701
+SVC frame: 349, kf: 0, size: 13082, pts: 349
+stream: 0 frame: 373 size: 2925
+stream: 1 frame: 373 size: 6642
+stream: 2 frame: 373 size: 13074
+SVC frame: 350, kf: 0, size: 21328, pts: 350
+stream: 0 frame: 374 size: 6411
+stream: 1 frame: 374 size: 11300
+stream: 2 frame: 374 size: 21320
+SVC frame: 351, kf: 0, size: 24591, pts: 351
+stream: 0 frame: 375 size: 4922
+stream: 1 frame: 375 size: 13244
+stream: 2 frame: 375 size: 24583
+SVC frame: 352, kf: 0, size: 40899, pts: 352
+stream: 0 frame: 376 size: 4931
+stream: 1 frame: 376 size: 18471
+stream: 2 frame: 376 size: 40891
+SVC frame: 353, kf: 0, size: 13194, pts: 353
+stream: 0 frame: 377 size: 3854
+stream: 1 frame: 377 size: 7326
+stream: 2 frame: 377 size: 13186
+SVC frame: 354, kf: 0, size: 23470, pts: 354
+stream: 0 frame: 378 size: 5467
+stream: 1 frame: 378 size: 12983
+stream: 2 frame: 378 size: 23462
+SVC frame: 355, kf: 0, size: 27431, pts: 355
+stream: 0 frame: 379 size: 7373
+stream: 1 frame: 379 size: 14402
+stream: 2 frame: 379 size: 27423
+SVC frame: 356, kf: 0, size: 41037, pts: 356
+stream: 0 frame: 380 size: 7369
+stream: 1 frame: 380 size: 19881
+stream: 2 frame: 380 size: 41029
+SVC frame: 357, kf: 0, size: 15626, pts: 357
+stream: 0 frame: 381 size: 3492
+stream: 1 frame: 381 size: 8793
+stream: 2 frame: 381 size: 15618
+SVC frame: 358, kf: 0, size: 24569, pts: 358
+stream: 0 frame: 382 size: 3918
+stream: 1 frame: 382 size: 12097
+stream: 2 frame: 382 size: 24561
+SVC frame: 359, kf: 0, size: 21605, pts: 359
+stream: 0 frame: 383 size: 4500
+stream: 1 frame: 383 size: 10419
+stream: 2 frame: 383 size: 21597
+SVC frame: 360, kf: 0, size: 42526, pts: 360
+stream: 0 frame: 384 size: 5796
+stream: 1 frame: 384 size: 16822
+stream: 2 frame: 384 size: 42518
+SVC frame: 361, kf: 0, size: 15250, pts: 361
+stream: 0 frame: 385 size: 4195
+stream: 1 frame: 385 size: 9416
+stream: 2 frame: 385 size: 15242
+SVC frame: 362, kf: 0, size: 18125, pts: 362
+stream: 0 frame: 386 size: 3412
+stream: 1 frame: 386 size: 9238
+stream: 2 frame: 386 size: 18117
+SVC frame: 363, kf: 0, size: 17032, pts: 363
+stream: 0 frame: 387 size: 4077
+stream: 1 frame: 387 size: 9058
+stream: 2 frame: 387 size: 17024
+SVC frame: 364, kf: 0, size: 31853, pts: 364
+stream: 0 frame: 388 size: 6298
+stream: 1 frame: 388 size: 17270
+stream: 2 frame: 388 size: 31845
+SVC frame: 365, kf: 0, size: 10794, pts: 365
+stream: 0 frame: 389 size: 2578
+stream: 1 frame: 389 size: 5428
+stream: 2 frame: 389 size: 10786
+SVC frame: 366, kf: 0, size: 35506, pts: 366
+stream: 0 frame: 390 size: 5751
+stream: 1 frame: 390 size: 16540
+stream: 2 frame: 390 size: 35498
+SVC frame: 367, kf: 0, size: 10431, pts: 367
+stream: 0 frame: 391 size: 2770
+stream: 1 frame: 391 size: 5787
+stream: 2 frame: 391 size: 10423
+SVC frame: 368, kf: 0, size: 35164, pts: 368
+stream: 0 frame: 392 size: 12580
+stream: 1 frame: 392 size: 16448
+stream: 2 frame: 392 size: 35156
+SVC frame: 369, kf: 0, size: 26966, pts: 369
+stream: 0 frame: 393 size: 10036
+stream: 1 frame: 393 size: 24914
+stream: 2 frame: 393 size: 26958
+SVC frame: 370, kf: 0, size: 31606, pts: 370
+stream: 0 frame: 394 size: 6378
+stream: 1 frame: 394 size: 18223
+stream: 2 frame: 394 size: 31598
+SVC frame: 371, kf: 0, size: 20149, pts: 371
+stream: 0 frame: 395 size: 3333
+stream: 1 frame: 395 size: 10111
+stream: 2 frame: 395 size: 20141
+SVC frame: 372, kf: 0, size: 37558, pts: 372
+stream: 0 frame: 396 size: 3661
+stream: 1 frame: 396 size: 14356
+stream: 2 frame: 396 size: 37550
+SVC frame: 373, kf: 0, size: 22194, pts: 373
+stream: 0 frame: 397 size: 4133
+stream: 1 frame: 397 size: 11341
+stream: 2 frame: 397 size: 22186
+SVC frame: 374, kf: 0, size: 21692, pts: 374
+stream: 0 frame: 398 size: 3613
+stream: 1 frame: 398 size: 9700
+stream: 2 frame: 398 size: 21684
+SVC frame: 375, kf: 0, size: 22105, pts: 375
+stream: 0 frame: 399 size: 4645
+stream: 1 frame: 399 size: 10722
+stream: 2 frame: 399 size: 22097
+SVC frame: 376, kf: 0, size: 36928, pts: 376
+stream: 0 frame: 400 size: 5101
+stream: 1 frame: 400 size: 13002
+stream: 2 frame: 400 size: 36920
+SVC frame: 377, kf: 0, size: 13364, pts: 377
+stream: 0 frame: 401 size: 3168
+stream: 1 frame: 401 size: 7302
+stream: 2 frame: 401 size: 13356
+SVC frame: 378, kf: 0, size: 17601, pts: 378
+stream: 0 frame: 402 size: 4182
+stream: 1 frame: 402 size: 8268
+stream: 2 frame: 402 size: 17593
+SVC frame: 379, kf: 0, size: 23042, pts: 379
+stream: 0 frame: 403 size: 4286
+stream: 1 frame: 403 size: 13448
+stream: 2 frame: 403 size: 23034
+SVC frame: 380, kf: 0, size: 31748, pts: 380
+stream: 0 frame: 404 size: 6000
+stream: 1 frame: 404 size: 16286
+stream: 2 frame: 404 size: 31740
+SVC frame: 381, kf: 0, size: 19221, pts: 381
+stream: 0 frame: 405 size: 4744
+stream: 1 frame: 405 size: 9747
+stream: 2 frame: 405 size: 19213
+SVC frame: 382, kf: 0, size: 27648, pts: 382
+stream: 0 frame: 406 size: 5614
+stream: 1 frame: 406 size: 14067
+stream: 2 frame: 406 size: 27640
+SVC frame: 383, kf: 0, size: 28088, pts: 383
+stream: 0 frame: 407 size: 7200
+stream: 1 frame: 407 size: 14334
+stream: 2 frame: 407 size: 28080
+SVC frame: 384, kf: 0, size: 48961, pts: 384
+stream: 0 frame: 408 size: 7274
+stream: 1 frame: 408 size: 22863
+stream: 2 frame: 408 size: 48953
+SVC frame: 385, kf: 0, size: 16116, pts: 385
+stream: 0 frame: 409 size: 3722
+stream: 1 frame: 409 size: 9218
+stream: 2 frame: 409 size: 16108
+SVC frame: 386, kf: 0, size: 17774, pts: 386
+stream: 0 frame: 410 size: 3336
+stream: 1 frame: 410 size: 8473
+stream: 2 frame: 410 size: 17766
+SVC frame: 387, kf: 0, size: 25199, pts: 387
+stream: 0 frame: 411 size: 5403
+stream: 1 frame: 411 size: 12499
+stream: 2 frame: 411 size: 25191
+SVC frame: 388, kf: 0, size: 27949, pts: 388
+stream: 0 frame: 412 size: 3971
+stream: 1 frame: 412 size: 13033
+stream: 2 frame: 412 size: 27941
+SVC frame: 389, kf: 0, size: 12443, pts: 389
+stream: 0 frame: 413 size: 2753
+stream: 1 frame: 413 size: 6241
+stream: 2 frame: 413 size: 12435
+SVC frame: 390, kf: 0, size: 21949, pts: 390
+stream: 0 frame: 414 size: 5956
+stream: 1 frame: 414 size: 11328
+stream: 2 frame: 414 size: 21941
+SVC frame: 391, kf: 0, size: 24096, pts: 391
+stream: 0 frame: 415 size: 4722
+stream: 1 frame: 415 size: 13009
+stream: 2 frame: 415 size: 24088
+SVC frame: 392, kf: 0, size: 40669, pts: 392
+stream: 0 frame: 416 size: 4861
+stream: 1 frame: 416 size: 17025
+stream: 2 frame: 416 size: 40661
+SVC frame: 393, kf: 0, size: 9264, pts: 393
+stream: 0 frame: 417 size: 2756
+stream: 1 frame: 417 size: 5235
+stream: 2 frame: 417 size: 9256
+SVC frame: 394, kf: 0, size: 37569, pts: 394
+stream: 0 frame: 418 size: 7683
+stream: 1 frame: 418 size: 16401
+stream: 2 frame: 418 size: 37561
+SVC frame: 395, kf: 0, size: 13811, pts: 395
+stream: 0 frame: 419 size: 3260
+stream: 1 frame: 419 size: 8362
+stream: 2 frame: 419 size: 13803
+SVC frame: 396, kf: 0, size: 33826, pts: 396
+stream: 0 frame: 420 size: 8879
+stream: 1 frame: 420 size: 19974
+stream: 2 frame: 420 size: 33818
+SVC frame: 397, kf: 0, size: 37677, pts: 397
+stream: 0 frame: 421 size: 8919
+stream: 1 frame: 421 size: 19067
+stream: 2 frame: 421 size: 37669
+SVC frame: 398, kf: 0, size: 24903, pts: 398
+stream: 0 frame: 422 size: 5768
+stream: 1 frame: 422 size: 13444
+stream: 2 frame: 422 size: 24895
+SVC frame: 399, kf: 0, size: 25427, pts: 399
+stream: 0 frame: 423 size: 5672
+stream: 1 frame: 423 size: 13178
+stream: 2 frame: 423 size: 25419
+SVC frame: 400, kf: 1, size: 35849, pts: 400
+stream: 0 frame: 424 size: 16006
+stream: 1 frame: 424 size: 17193
+stream: 2 frame: 424 size: 35841
+SVC frame: 401, kf: 0, size: 24033, pts: 401
+stream: 0 frame: 425 size: 4265
+stream: 1 frame: 425 size: 23096
+stream: 2 frame: 425 size: 24025
+SVC frame: 402, kf: 0, size: 12631, pts: 402
+stream: 0 frame: 426 size: 1722
+stream: 1 frame: 426 size: 6252
+stream: 2 frame: 426 size: 12623
+SVC frame: 403, kf: 0, size: 13209, pts: 403
+stream: 0 frame: 427 size: 3548
+stream: 1 frame: 427 size: 7751
+stream: 2 frame: 427 size: 13201
+SVC frame: 404, kf: 0, size: 37303, pts: 404
+stream: 0 frame: 428 size: 4645
+stream: 1 frame: 428 size: 15240
+stream: 2 frame: 428 size: 37295
+SVC frame: 405, kf: 0, size: 12283, pts: 405
+stream: 0 frame: 429 size: 2915
+stream: 1 frame: 429 size: 6406
+stream: 2 frame: 429 size: 12275
+SVC frame: 406, kf: 0, size: 27311, pts: 406
+stream: 0 frame: 430 size: 6049
+stream: 1 frame: 430 size: 13452
+stream: 2 frame: 430 size: 27303
+SVC frame: 407, kf: 0, size: 24671, pts: 407
+stream: 0 frame: 431 size: 4283
+stream: 1 frame: 431 size: 11820
+stream: 2 frame: 431 size: 24663
+SVC frame: 408, kf: 0, size: 54650, pts: 408
+stream: 0 frame: 432 size: 6951
+stream: 1 frame: 432 size: 26033
+stream: 2 frame: 432 size: 54642
+SVC frame: 409, kf: 0, size: 10481, pts: 409
+stream: 0 frame: 433 size: 1919
+stream: 1 frame: 433 size: 5270
+stream: 2 frame: 433 size: 10473
+SVC frame: 410, kf: 0, size: 27161, pts: 410
+stream: 0 frame: 434 size: 5527
+stream: 1 frame: 434 size: 11747
+stream: 2 frame: 434 size: 27153
+SVC frame: 411, kf: 0, size: 29778, pts: 411
+stream: 0 frame: 435 size: 7425
+stream: 1 frame: 435 size: 14369
+stream: 2 frame: 435 size: 29770
+SVC frame: 412, kf: 0, size: 30667, pts: 412
+stream: 0 frame: 436 size: 4189
+stream: 1 frame: 436 size: 15569
+stream: 2 frame: 436 size: 30659
+SVC frame: 413, kf: 0, size: 11723, pts: 413
+stream: 0 frame: 437 size: 2084
+stream: 1 frame: 437 size: 5548
+stream: 2 frame: 437 size: 11715
+SVC frame: 414, kf: 0, size: 33024, pts: 414
+stream: 0 frame: 438 size: 5836
+stream: 1 frame: 438 size: 13738
+stream: 2 frame: 438 size: 33016
+SVC frame: 415, kf: 0, size: 11825, pts: 415
+stream: 0 frame: 439 size: 2436
+stream: 1 frame: 439 size: 6562
+stream: 2 frame: 439 size: 11817
+SVC frame: 416, kf: 0, size: 32830, pts: 416
+stream: 0 frame: 440 size: 5673
+stream: 1 frame: 440 size: 13832
+stream: 2 frame: 440 size: 32822
+SVC frame: 417, kf: 0, size: 9195, pts: 417
+stream: 0 frame: 441 size: 2245
+stream: 1 frame: 441 size: 5222
+stream: 2 frame: 441 size: 9187
+SVC frame: 418, kf: 0, size: 24190, pts: 418
+stream: 0 frame: 442 size: 7766
+stream: 1 frame: 442 size: 18236
+stream: 2 frame: 442 size: 24182
+SVC frame: 419, kf: 0, size: 23240, pts: 419
+stream: 0 frame: 443 size: 3051
+stream: 1 frame: 443 size: 8212
+stream: 2 frame: 443 size: 23232
+SVC frame: 420, kf: 0, size: 36899, pts: 420
+stream: 0 frame: 444 size: 6249
+stream: 1 frame: 444 size: 18988
+stream: 2 frame: 444 size: 36891
+SVC frame: 421, kf: 0, size: 16327, pts: 421
+stream: 0 frame: 445 size: 4062
+stream: 1 frame: 445 size: 8705
+stream: 2 frame: 445 size: 16319
+SVC frame: 422, kf: 0, size: 23819, pts: 422
+stream: 0 frame: 446 size: 4192
+stream: 1 frame: 446 size: 11728
+stream: 2 frame: 446 size: 23811
+SVC frame: 423, kf: 0, size: 24512, pts: 423
+stream: 0 frame: 447 size: 6216
+stream: 1 frame: 447 size: 12360
+stream: 2 frame: 447 size: 24504
+SVC frame: 424, kf: 0, size: 38654, pts: 424
+stream: 0 frame: 448 size: 7446
+stream: 1 frame: 448 size: 18529
+stream: 2 frame: 448 size: 38646
+SVC frame: 425, kf: 0, size: 22966, pts: 425
+stream: 0 frame: 449 size: 4912
+stream: 1 frame: 449 size: 13223
+stream: 2 frame: 449 size: 22958
+SVC frame: 426, kf: 0, size: 28467, pts: 426
+stream: 0 frame: 450 size: 5425
+stream: 1 frame: 450 size: 14111
+stream: 2 frame: 450 size: 28459
+SVC frame: 427, kf: 0, size: 25560, pts: 427
+stream: 0 frame: 451 size: 4905
+stream: 1 frame: 451 size: 13036
+stream: 2 frame: 451 size: 25552
+SVC frame: 428, kf: 0, size: 21646, pts: 428
+stream: 0 frame: 452 size: 2329
+stream: 1 frame: 452 size: 8613
+stream: 2 frame: 452 size: 21638
+SVC frame: 429, kf: 0, size: 23419, pts: 429
+stream: 0 frame: 453 size: 6140
+stream: 1 frame: 453 size: 12170
+stream: 2 frame: 453 size: 23411
+SVC frame: 430, kf: 0, size: 29291, pts: 430
+stream: 0 frame: 454 size: 4579
+stream: 1 frame: 454 size: 14873
+stream: 2 frame: 454 size: 29283
+SVC frame: 431, kf: 0, size: 18095, pts: 431
+stream: 0 frame: 455 size: 3668
+stream: 1 frame: 455 size: 9136
+stream: 2 frame: 455 size: 18087
+SVC frame: 432, kf: 0, size: 46935, pts: 432
+stream: 0 frame: 456 size: 5987
+stream: 1 frame: 456 size: 17291
+stream: 2 frame: 456 size: 46927
+SVC frame: 433, kf: 0, size: 8261, pts: 433
+stream: 0 frame: 457 size: 1926
+stream: 1 frame: 457 size: 4357
+stream: 2 frame: 457 size: 8253
+SVC frame: 434, kf: 0, size: 27540, pts: 434
+stream: 0 frame: 458 size: 3283
+stream: 1 frame: 458 size: 9797
+stream: 2 frame: 458 size: 27532
+SVC frame: 435, kf: 0, size: 13784, pts: 435
+stream: 0 frame: 459 size: 6695
+stream: 1 frame: 459 size: 9021
+stream: 2 frame: 459 size: 13776
+SVC frame: 436, kf: 0, size: 27844, pts: 436
+stream: 0 frame: 460 size: 4330
+stream: 1 frame: 460 size: 18925
+stream: 2 frame: 460 size: 27836
+SVC frame: 437, kf: 0, size: 21865, pts: 437
+stream: 0 frame: 461 size: 4267
+stream: 1 frame: 461 size: 8317
+stream: 2 frame: 461 size: 21857
+SVC frame: 438, kf: 0, size: 25800, pts: 438
+stream: 0 frame: 462 size: 5570
+stream: 1 frame: 462 size: 13338
+stream: 2 frame: 462 size: 25792
+SVC frame: 439, kf: 0, size: 24227, pts: 439
+stream: 0 frame: 463 size: 5560
+stream: 1 frame: 463 size: 12341
+stream: 2 frame: 463 size: 24219
+SVC frame: 440, kf: 0, size: 46565, pts: 440
+stream: 0 frame: 464 size: 8169
+stream: 1 frame: 464 size: 22119
+stream: 2 frame: 464 size: 46557
+SVC frame: 441, kf: 0, size: 14375, pts: 441
+stream: 0 frame: 465 size: 2992
+stream: 1 frame: 465 size: 7565
+stream: 2 frame: 465 size: 14367
+SVC frame: 442, kf: 0, size: 22116, pts: 442
+stream: 0 frame: 466 size: 4003
+stream: 1 frame: 466 size: 11481
+stream: 2 frame: 466 size: 22108
+SVC frame: 443, kf: 0, size: 23590, pts: 443
+stream: 0 frame: 467 size: 5164
+stream: 1 frame: 467 size: 12413
+stream: 2 frame: 467 size: 23582
+SVC frame: 444, kf: 0, size: 41079, pts: 444
+stream: 0 frame: 468 size: 4065
+stream: 1 frame: 468 size: 14511
+stream: 2 frame: 468 size: 41071
+SVC frame: 445, kf: 0, size: 11769, pts: 445
+stream: 0 frame: 469 size: 3148
+stream: 1 frame: 469 size: 6447
+stream: 2 frame: 469 size: 11761
+SVC frame: 446, kf: 0, size: 21671, pts: 446
+stream: 0 frame: 470 size: 5647
+stream: 1 frame: 470 size: 11300
+stream: 2 frame: 470 size: 21663
+SVC frame: 447, kf: 0, size: 12048, pts: 447
+stream: 0 frame: 471 size: 2331
+stream: 1 frame: 471 size: 7230
+stream: 2 frame: 471 size: 12040
+SVC frame: 448, kf: 0, size: 38711, pts: 448
+stream: 0 frame: 472 size: 4024
+stream: 1 frame: 472 size: 16619
+stream: 2 frame: 472 size: 38703
+SVC frame: 449, kf: 0, size: 13050, pts: 449
+stream: 0 frame: 473 size: 5427
+stream: 1 frame: 473 size: 7714
+stream: 2 frame: 473 size: 13042
+SVC frame: 450, kf: 0, size: 25363, pts: 450
+stream: 0 frame: 474 size: 7472
+stream: 1 frame: 474 size: 13236
+stream: 2 frame: 474 size: 25355
+SVC frame: 451, kf: 0, size: 25855, pts: 451
+stream: 0 frame: 475 size: 6260
+stream: 1 frame: 475 size: 18218
+stream: 2 frame: 475 size: 25847
+SVC frame: 452, kf: 0, size: 31985, pts: 452
+stream: 0 frame: 476 size: 4337
+stream: 1 frame: 476 size: 15269
+stream: 2 frame: 476 size: 31977
+SVC frame: 453, kf: 0, size: 16048, pts: 453
+stream: 0 frame: 477 size: 3113
+stream: 1 frame: 477 size: 7901
+stream: 2 frame: 477 size: 16040
+SVC frame: 454, kf: 0, size: 38481, pts: 454
+stream: 0 frame: 478 size: 6676
+stream: 1 frame: 478 size: 16236
+stream: 2 frame: 478 size: 38473
+SVC frame: 455, kf: 0, size: 20310, pts: 455
+stream: 0 frame: 479 size: 4768
+stream: 1 frame: 479 size: 10722
+stream: 2 frame: 479 size: 20302
+SVC frame: 456, kf: 0, size: 42703, pts: 456
+stream: 0 frame: 480 size: 5854
+stream: 1 frame: 480 size: 20110
+stream: 2 frame: 480 size: 42695
+SVC frame: 457, kf: 0, size: 22237, pts: 457
+stream: 0 frame: 481 size: 6313
+stream: 1 frame: 481 size: 14227
+stream: 2 frame: 481 size: 22229
+SVC frame: 458, kf: 0, size: 16855, pts: 458
+stream: 0 frame: 482 size: 2084
+stream: 1 frame: 482 size: 7052
+stream: 2 frame: 482 size: 16847
+SVC frame: 459, kf: 0, size: 18941, pts: 459
+stream: 0 frame: 483 size: 3888
+stream: 1 frame: 483 size: 9712
+stream: 2 frame: 483 size: 18933
+SVC frame: 460, kf: 0, size: 31462, pts: 460
+stream: 0 frame: 484 size: 6619
+stream: 1 frame: 484 size: 14190
+stream: 2 frame: 484 size: 31454
+SVC frame: 461, kf: 0, size: 11406, pts: 461
+stream: 0 frame: 485 size: 2402
+stream: 1 frame: 485 size: 5890
+stream: 2 frame: 485 size: 11398
+SVC frame: 462, kf: 0, size: 29055, pts: 462
+stream: 0 frame: 486 size: 6415
+stream: 1 frame: 486 size: 17464
+stream: 2 frame: 486 size: 29047
+SVC frame: 463, kf: 0, size: 13858, pts: 463
+stream: 0 frame: 487 size: 2992
+stream: 1 frame: 487 size: 6933
+stream: 2 frame: 487 size: 13850
+SVC frame: 464, kf: 0, size: 48324, pts: 464
+stream: 0 frame: 488 size: 4997
+stream: 1 frame: 488 size: 19268
+stream: 2 frame: 488 size: 48316
+SVC frame: 465, kf: 0, size: 17505, pts: 465
+stream: 0 frame: 489 size: 5213
+stream: 1 frame: 489 size: 8789
+stream: 2 frame: 489 size: 17497
+SVC frame: 466, kf: 0, size: 23739, pts: 466
+stream: 0 frame: 490 size: 7324
+stream: 1 frame: 490 size: 13550
+stream: 2 frame: 490 size: 23731
+SVC frame: 467, kf: 0, size: 35059, pts: 467
+stream: 0 frame: 491 size: 8462
+stream: 1 frame: 491 size: 20790
+stream: 2 frame: 491 size: 35051
+SVC frame: 468, kf: 0, size: 29031, pts: 468
+stream: 0 frame: 492 size: 3203
+stream: 1 frame: 492 size: 14351
+stream: 2 frame: 492 size: 29023
+SVC frame: 469, kf: 0, size: 16074, pts: 469
+stream: 0 frame: 493 size: 3343
+stream: 1 frame: 493 size: 8021
+stream: 2 frame: 493 size: 16066
+SVC frame: 470, kf: 0, size: 21277, pts: 470
+stream: 0 frame: 494 size: 4540
+stream: 1 frame: 494 size: 10578
+stream: 2 frame: 494 size: 21269
+SVC frame: 471, kf: 0, size: 24084, pts: 471
+stream: 0 frame: 495 size: 5499
+stream: 1 frame: 495 size: 11364
+stream: 2 frame: 495 size: 24076
+SVC frame: 472, kf: 0, size: 35367, pts: 472
+stream: 0 frame: 496 size: 4191
+stream: 1 frame: 496 size: 13740
+stream: 2 frame: 496 size: 35359
+SVC frame: 473, kf: 0, size: 10488, pts: 473
+stream: 0 frame: 497 size: 3040
+stream: 1 frame: 497 size: 6245
+stream: 2 frame: 497 size: 10480
+SVC frame: 474, kf: 0, size: 33125, pts: 474
+stream: 0 frame: 498 size: 7474
+stream: 1 frame: 498 size: 13213
+stream: 2 frame: 498 size: 33117
+SVC frame: 475, kf: 0, size: 15233, pts: 475
+stream: 0 frame: 499 size: 3285
+stream: 1 frame: 499 size: 11800
+stream: 2 frame: 499 size: 15225
+SVC frame: 476, kf: 0, size: 22654, pts: 476
+stream: 0 frame: 500 size: 4074
+stream: 1 frame: 500 size: 12515
+stream: 2 frame: 500 size: 22646
+SVC frame: 477, kf: 0, size: 19116, pts: 477
+stream: 0 frame: 501 size: 5334
+stream: 1 frame: 501 size: 10305
+stream: 2 frame: 501 size: 19108
+SVC frame: 478, kf: 0, size: 37656, pts: 478
+stream: 0 frame: 502 size: 10151
+stream: 1 frame: 502 size: 17426
+stream: 2 frame: 502 size: 37648
+SVC frame: 479, kf: 0, size: 31989, pts: 479
+stream: 0 frame: 503 size: 9536
+stream: 1 frame: 503 size: 20383
+stream: 2 frame: 503 size: 31981
+SVC frame: 480, kf: 0, size: 42568, pts: 480
+stream: 0 frame: 504 size: 6652
+stream: 1 frame: 504 size: 19326
+stream: 2 frame: 504 size: 42560
+SVC frame: 481, kf: 0, size: 11710, pts: 481
+stream: 0 frame: 505 size: 2179
+stream: 1 frame: 505 size: 6697
+stream: 2 frame: 505 size: 11702
+SVC frame: 482, kf: 0, size: 26034, pts: 482
+stream: 0 frame: 506 size: 4880
+stream: 1 frame: 506 size: 12705
+stream: 2 frame: 506 size: 26026
+SVC frame: 483, kf: 0, size: 14220, pts: 483
+stream: 0 frame: 507 size: 2293
+stream: 1 frame: 507 size: 6887
+stream: 2 frame: 507 size: 14212
+SVC frame: 484, kf: 0, size: 35685, pts: 484
+stream: 0 frame: 508 size: 7527
+stream: 1 frame: 508 size: 13173
+stream: 2 frame: 508 size: 35677
+SVC frame: 485, kf: 0, size: 15561, pts: 485
+stream: 0 frame: 509 size: 2503
+stream: 1 frame: 509 size: 9768
+stream: 2 frame: 509 size: 15553
+SVC frame: 486, kf: 0, size: 21983, pts: 486
+stream: 0 frame: 510 size: 4410
+stream: 1 frame: 510 size: 11024
+stream: 2 frame: 510 size: 21975
+SVC frame: 487, kf: 0, size: 19575, pts: 487
+stream: 0 frame: 511 size: 4699
+stream: 1 frame: 511 size: 10356
+stream: 2 frame: 511 size: 19567
+SVC frame: 488, kf: 0, size: 37196, pts: 488
+stream: 0 frame: 512 size: 4749
+stream: 1 frame: 512 size: 17094
+stream: 2 frame: 512 size: 37188
+SVC frame: 489, kf: 0, size: 8075, pts: 489
+stream: 0 frame: 513 size: 2215
+stream: 1 frame: 513 size: 4474
+stream: 2 frame: 513 size: 8067
+SVC frame: 490, kf: 0, size: 29328, pts: 490
+stream: 0 frame: 514 size: 11635
+stream: 1 frame: 514 size: 15382
+stream: 2 frame: 514 size: 29320
+SVC frame: 491, kf: 0, size: 18241, pts: 491
+stream: 0 frame: 515 size: 1970
+stream: 1 frame: 515 size: 13477
+stream: 2 frame: 515 size: 18233
+SVC frame: 492, kf: 0, size: 47388, pts: 492
+stream: 0 frame: 516 size: 9039
+stream: 1 frame: 516 size: 23021
+stream: 2 frame: 516 size: 47380
+SVC frame: 493, kf: 0, size: 20123, pts: 493
+stream: 0 frame: 517 size: 4414
+stream: 1 frame: 517 size: 10781
+stream: 2 frame: 517 size: 20115
+SVC frame: 494, kf: 0, size: 43030, pts: 494
+stream: 0 frame: 518 size: 6459
+stream: 1 frame: 518 size: 17567
+stream: 2 frame: 518 size: 43022
+SVC frame: 495, kf: 0, size: 15062, pts: 495
+stream: 0 frame: 519 size: 2769
+stream: 1 frame: 519 size: 8208
+stream: 2 frame: 519 size: 15054
+SVC frame: 496, kf: 0, size: 32516, pts: 496
+stream: 0 frame: 520 size: 4924
+stream: 1 frame: 520 size: 12705
+stream: 2 frame: 520 size: 32508
+SVC frame: 497, kf: 0, size: 15522, pts: 497
+stream: 0 frame: 521 size: 3323
+stream: 1 frame: 521 size: 8553
+stream: 2 frame: 521 size: 15514
+SVC frame: 498, kf: 0, size: 20175, pts: 498
+stream: 0 frame: 522 size: 4562
+stream: 1 frame: 522 size: 10044
+stream: 2 frame: 522 size: 20167
+SVC frame: 499, kf: 0, size: 18013, pts: 499
+stream: 0 frame: 523 size: 3841
+stream: 1 frame: 523 size: 9825
+stream: 2 frame: 523 size: 18005
+SVC frame: 500, kf: 1, size: 57143, pts: 500
+stream: 0 frame: 524 size: 24153
+stream: 1 frame: 524 size: 30753
+stream: 2 frame: 524 size: 57135
+SVC frame: 501, kf: 0, size: 9949, pts: 501
+stream: 0 frame: 525 size: 1514
+stream: 1 frame: 525 size: 6708
+stream: 2 frame: 525 size: 9941
+SVC frame: 502, kf: 0, size: 25555, pts: 502
+stream: 0 frame: 526 size: 3445
+stream: 1 frame: 526 size: 14732
+stream: 2 frame: 526 size: 25547
+SVC frame: 503, kf: 0, size: 20432, pts: 503
+stream: 0 frame: 527 size: 3398
+stream: 1 frame: 527 size: 9925
+stream: 2 frame: 527 size: 20424
+SVC frame: 504, kf: 0, size: 56337, pts: 504
+stream: 0 frame: 528 size: 8968
+stream: 1 frame: 528 size: 24101
+stream: 2 frame: 528 size: 56329
+SVC frame: 505, kf: 0, size: 7380, pts: 505
+stream: 0 frame: 529 size: 1381
+stream: 1 frame: 529 size: 4701
+stream: 2 frame: 529 size: 7372
+SVC frame: 506, kf: 0, size: 34125, pts: 506
+stream: 0 frame: 530 size: 10138
+stream: 1 frame: 530 size: 15857
+stream: 2 frame: 530 size: 34117
+SVC frame: 507, kf: 0, size: 30090, pts: 507
+stream: 0 frame: 531 size: 5777
+stream: 1 frame: 531 size: 18278
+stream: 2 frame: 531 size: 30082
+SVC frame: 508, kf: 0, size: 22846, pts: 508
+stream: 0 frame: 532 size: 1579
+stream: 1 frame: 532 size: 10161
+stream: 2 frame: 532 size: 22838
+SVC frame: 509, kf: 0, size: 26481, pts: 509
+stream: 0 frame: 533 size: 5378
+stream: 1 frame: 533 size: 13226
+stream: 2 frame: 533 size: 26473
+SVC frame: 510, kf: 0, size: 21217, pts: 510
+stream: 0 frame: 534 size: 2681
+stream: 1 frame: 534 size: 9478
+stream: 2 frame: 534 size: 21209
+SVC frame: 511, kf: 0, size: 22229, pts: 511
+stream: 0 frame: 535 size: 5217
+stream: 1 frame: 535 size: 11162
+stream: 2 frame: 535 size: 22221
+SVC frame: 512, kf: 0, size: 39577, pts: 512
+stream: 0 frame: 536 size: 5181
+stream: 1 frame: 536 size: 15354
+stream: 2 frame: 536 size: 39569
+SVC frame: 513, kf: 0, size: 8415, pts: 513
+stream: 0 frame: 537 size: 1835
+stream: 1 frame: 537 size: 5080
+stream: 2 frame: 537 size: 8407
+SVC frame: 514, kf: 0, size: 17186, pts: 514
+stream: 0 frame: 538 size: 2665
+stream: 1 frame: 538 size: 7881
+stream: 2 frame: 538 size: 17178
+SVC frame: 515, kf: 0, size: 22577, pts: 515
+stream: 0 frame: 539 size: 7353
+stream: 1 frame: 539 size: 13116
+stream: 2 frame: 539 size: 22569
+SVC frame: 516, kf: 0, size: 32901, pts: 516
+stream: 0 frame: 540 size: 2791
+stream: 1 frame: 540 size: 16113
+stream: 2 frame: 540 size: 32893
+SVC frame: 517, kf: 0, size: 19454, pts: 517
+stream: 0 frame: 541 size: 5317
+stream: 1 frame: 541 size: 10005
+stream: 2 frame: 541 size: 19446
+SVC frame: 518, kf: 0, size: 20276, pts: 518
+stream: 0 frame: 542 size: 3607
+stream: 1 frame: 542 size: 9981
+stream: 2 frame: 542 size: 20268
+SVC frame: 519, kf: 0, size: 22593, pts: 519
+stream: 0 frame: 543 size: 5537
+stream: 1 frame: 543 size: 11329
+stream: 2 frame: 543 size: 22585
+SVC frame: 520, kf: 0, size: 37776, pts: 520
+stream: 0 frame: 544 size: 5407
+stream: 1 frame: 544 size: 17388
+stream: 2 frame: 544 size: 37768
+SVC frame: 521, kf: 0, size: 21910, pts: 521
+stream: 0 frame: 545 size: 7800
+stream: 1 frame: 545 size: 12894
+stream: 2 frame: 545 size: 21902
+SVC frame: 522, kf: 0, size: 40186, pts: 522
+stream: 0 frame: 546 size: 8320
+stream: 1 frame: 546 size: 24154
+stream: 2 frame: 546 size: 40178
+SVC frame: 523, kf: 0, size: 16078, pts: 523
+stream: 0 frame: 547 size: 2405
+stream: 1 frame: 547 size: 9569
+stream: 2 frame: 547 size: 16070
+SVC frame: 524, kf: 0, size: 20059, pts: 524
+stream: 0 frame: 548 size: 2770
+stream: 1 frame: 548 size: 9583
+stream: 2 frame: 548 size: 20051
+SVC frame: 525, kf: 0, size: 29844, pts: 525
+stream: 0 frame: 549 size: 7424
+stream: 1 frame: 549 size: 12017
+stream: 2 frame: 549 size: 29836
+SVC frame: 526, kf: 0, size: 21985, pts: 526
+stream: 0 frame: 550 size: 1591
+stream: 1 frame: 550 size: 11125
+stream: 2 frame: 550 size: 21977
+SVC frame: 527, kf: 0, size: 18024, pts: 527
+stream: 0 frame: 551 size: 4375
+stream: 1 frame: 551 size: 9133
+stream: 2 frame: 551 size: 18016
+SVC frame: 528, kf: 0, size: 35492, pts: 528
+stream: 0 frame: 552 size: 3352
+stream: 1 frame: 552 size: 12421
+stream: 2 frame: 552 size: 35484
+SVC frame: 529, kf: 0, size: 13849, pts: 529
+stream: 0 frame: 553 size: 5085
+stream: 1 frame: 553 size: 8018
+stream: 2 frame: 553 size: 13841
+SVC frame: 530, kf: 0, size: 16169, pts: 530
+stream: 0 frame: 554 size: 2903
+stream: 1 frame: 554 size: 7720
+stream: 2 frame: 554 size: 16161
+SVC frame: 531, kf: 0, size: 20197, pts: 531
+stream: 0 frame: 555 size: 3729
+stream: 1 frame: 555 size: 13566
+stream: 2 frame: 555 size: 20189
+SVC frame: 532, kf: 0, size: 43253, pts: 532
+stream: 0 frame: 556 size: 9242
+stream: 1 frame: 556 size: 17257
+stream: 2 frame: 556 size: 43245
+SVC frame: 533, kf: 0, size: 17817, pts: 533
+stream: 0 frame: 557 size: 4087
+stream: 1 frame: 557 size: 12290
+stream: 2 frame: 557 size: 17809
+SVC frame: 534, kf: 0, size: 29952, pts: 534
+stream: 0 frame: 558 size: 7183
+stream: 1 frame: 558 size: 16139
+stream: 2 frame: 558 size: 29944
+SVC frame: 535, kf: 0, size: 21839, pts: 535
+stream: 0 frame: 559 size: 3998
+stream: 1 frame: 559 size: 11880
+stream: 2 frame: 559 size: 21831
+SVC frame: 536, kf: 0, size: 31976, pts: 536
+stream: 0 frame: 560 size: 4589
+stream: 1 frame: 560 size: 13234
+stream: 2 frame: 560 size: 31968
+SVC frame: 537, kf: 0, size: 20438, pts: 537
+stream: 0 frame: 561 size: 3802
+stream: 1 frame: 561 size: 10288
+stream: 2 frame: 561 size: 20430
+SVC frame: 538, kf: 0, size: 22686, pts: 538
+stream: 0 frame: 562 size: 3678
+stream: 1 frame: 562 size: 11384
+stream: 2 frame: 562 size: 22678
+SVC frame: 539, kf: 0, size: 20220, pts: 539
+stream: 0 frame: 563 size: 3714
+stream: 1 frame: 563 size: 10113
+stream: 2 frame: 563 size: 20212
+SVC frame: 540, kf: 0, size: 36435, pts: 540
+stream: 0 frame: 564 size: 6408
+stream: 1 frame: 564 size: 16387
+stream: 2 frame: 564 size: 36427
+SVC frame: 541, kf: 0, size: 8245, pts: 541
+stream: 0 frame: 565 size: 1479
+stream: 1 frame: 565 size: 3932
+stream: 2 frame: 565 size: 8237
+SVC frame: 542, kf: 0, size: 30500, pts: 542
+stream: 0 frame: 566 size: 3904
+stream: 1 frame: 566 size: 10915
+stream: 2 frame: 566 size: 30492
+SVC frame: 543, kf: 0, size: 13917, pts: 543
+stream: 0 frame: 567 size: 3039
+stream: 1 frame: 567 size: 7602
+stream: 2 frame: 567 size: 13909
+SVC frame: 544, kf: 0, size: 32689, pts: 544
+stream: 0 frame: 568 size: 9150
+stream: 1 frame: 568 size: 18603
+stream: 2 frame: 568 size: 32681
+SVC frame: 545, kf: 0, size: 14437, pts: 545
+stream: 0 frame: 569 size: 2392
+stream: 1 frame: 569 size: 8269
+stream: 2 frame: 569 size: 14429
+SVC frame: 546, kf: 0, size: 17235, pts: 546
+stream: 0 frame: 570 size: 4034
+stream: 1 frame: 570 size: 10388
+stream: 2 frame: 570 size: 17227
+SVC frame: 547, kf: 0, size: 30388, pts: 547
+stream: 0 frame: 571 size: 6394
+stream: 1 frame: 571 size: 13497
+stream: 2 frame: 571 size: 30380
+SVC frame: 548, kf: 0, size: 28764, pts: 548
+stream: 0 frame: 572 size: 6401
+stream: 1 frame: 572 size: 16461
+stream: 2 frame: 572 size: 28756
+SVC frame: 549, kf: 0, size: 22583, pts: 549
+stream: 0 frame: 573 size: 4718
+stream: 1 frame: 573 size: 11870
+stream: 2 frame: 573 size: 22575
+SVC frame: 550, kf: 0, size: 26925, pts: 550
+stream: 0 frame: 574 size: 4884
+stream: 1 frame: 574 size: 13269
+stream: 2 frame: 574 size: 26917
+SVC frame: 551, kf: 0, size: 23234, pts: 551
+stream: 0 frame: 575 size: 4438
+stream: 1 frame: 575 size: 11376
+stream: 2 frame: 575 size: 23226
+SVC frame: 552, kf: 0, size: 44022, pts: 552
+stream: 0 frame: 576 size: 5520
+stream: 1 frame: 576 size: 16850
+stream: 2 frame: 576 size: 44014
+SVC frame: 553, kf: 0, size: 7598, pts: 553
+stream: 0 frame: 577 size: 1739
+stream: 1 frame: 577 size: 4362
+stream: 2 frame: 577 size: 7590
+SVC frame: 554, kf: 0, size: 24599, pts: 554
+stream: 0 frame: 578 size: 4337
+stream: 1 frame: 578 size: 12028
+stream: 2 frame: 578 size: 24591
+SVC frame: 555, kf: 0, size: 18458, pts: 555
+stream: 0 frame: 579 size: 2850
+stream: 1 frame: 579 size: 8245
+stream: 2 frame: 579 size: 18450
+SVC frame: 556, kf: 0, size: 33225, pts: 556
+stream: 0 frame: 580 size: 10232
+stream: 1 frame: 580 size: 16484
+stream: 2 frame: 580 size: 33217
+SVC frame: 557, kf: 0, size: 15728, pts: 557
+stream: 0 frame: 581 size: 2759
+stream: 1 frame: 581 size: 9998
+stream: 2 frame: 581 size: 15720
+SVC frame: 558, kf: 0, size: 25368, pts: 558
+stream: 0 frame: 582 size: 4988
+stream: 1 frame: 582 size: 14475
+stream: 2 frame: 582 size: 25360
+SVC frame: 559, kf: 0, size: 22083, pts: 559
+stream: 0 frame: 583 size: 4218
+stream: 1 frame: 583 size: 10436
+stream: 2 frame: 583 size: 22075
+SVC frame: 560, kf: 0, size: 37198, pts: 560
+stream: 0 frame: 584 size: 6191
+stream: 1 frame: 584 size: 16079
+stream: 2 frame: 584 size: 37190
+SVC frame: 561, kf: 0, size: 18146, pts: 561
+stream: 0 frame: 585 size: 5060
+stream: 1 frame: 585 size: 10739
+stream: 2 frame: 585 size: 18138
+SVC frame: 562, kf: 0, size: 31867, pts: 562
+stream: 0 frame: 586 size: 5485
+stream: 1 frame: 586 size: 15498
+stream: 2 frame: 586 size: 31859
+SVC frame: 563, kf: 0, size: 17359, pts: 563
+stream: 0 frame: 587 size: 3863
+stream: 1 frame: 587 size: 9874
+stream: 2 frame: 587 size: 17351
+SVC frame: 564, kf: 0, size: 34695, pts: 564
+stream: 0 frame: 588 size: 7659
+stream: 1 frame: 588 size: 18438
+stream: 2 frame: 588 size: 34687
+SVC frame: 565, kf: 0, size: 26666, pts: 565
+stream: 0 frame: 589 size: 6501
+stream: 1 frame: 589 size: 13984
+stream: 2 frame: 589 size: 26658
+SVC frame: 566, kf: 0, size: 20245, pts: 566
+stream: 0 frame: 590 size: 3259
+stream: 1 frame: 590 size: 10127
+stream: 2 frame: 590 size: 20237
+SVC frame: 567, kf: 0, size: 28084, pts: 567
+stream: 0 frame: 591 size: 5979
+stream: 1 frame: 591 size: 15109
+stream: 2 frame: 591 size: 28076
+SVC frame: 568, kf: 0, size: 31839, pts: 568
+stream: 0 frame: 592 size: 3282
+stream: 1 frame: 592 size: 11052
+stream: 2 frame: 592 size: 31831
+SVC frame: 569, kf: 0, size: 9517, pts: 569
+stream: 0 frame: 593 size: 2398
+stream: 1 frame: 593 size: 5622
+stream: 2 frame: 593 size: 9509
+SVC frame: 570, kf: 0, size: 24542, pts: 570
+stream: 0 frame: 594 size: 6577
+stream: 1 frame: 594 size: 15585
+stream: 2 frame: 594 size: 24534
+SVC frame: 571, kf: 0, size: 18242, pts: 571
+stream: 0 frame: 595 size: 2724
+stream: 1 frame: 595 size: 8085
+stream: 2 frame: 595 size: 18234
+SVC frame: 572, kf: 0, size: 47755, pts: 572
+stream: 0 frame: 596 size: 8173
+stream: 1 frame: 596 size: 21609
+stream: 2 frame: 596 size: 47747
+SVC frame: 573, kf: 0, size: 12550, pts: 573
+stream: 0 frame: 597 size: 2357
+stream: 1 frame: 597 size: 6807
+stream: 2 frame: 597 size: 12542
+SVC frame: 574, kf: 0, size: 24056, pts: 574
+stream: 0 frame: 598 size: 5685
+stream: 1 frame: 598 size: 12320
+stream: 2 frame: 598 size: 24048
+SVC frame: 575, kf: 0, size: 22394, pts: 575
+stream: 0 frame: 599 size: 5589
+stream: 1 frame: 599 size: 11676
+stream: 2 frame: 599 size: 22386
+SVC frame: 576, kf: 0, size: 40185, pts: 576
+stream: 0 frame: 600 size: 8640
+stream: 1 frame: 600 size: 19815
+stream: 2 frame: 600 size: 40177
+SVC frame: 577, kf: 0, size: 29849, pts: 577
+stream: 0 frame: 601 size: 8995
+stream: 1 frame: 601 size: 18940
+stream: 2 frame: 601 size: 29841
+SVC frame: 578, kf: 0, size: 23810, pts: 578
+stream: 0 frame: 602 size: 5096
+stream: 1 frame: 602 size: 12362
+stream: 2 frame: 602 size: 23802
+SVC frame: 579, kf: 0, size: 21357, pts: 579
+stream: 0 frame: 603 size: 4230
+stream: 1 frame: 603 size: 11264
+stream: 2 frame: 603 size: 21349
+SVC frame: 580, kf: 0, size: 28270, pts: 580
+stream: 0 frame: 604 size: 3489
+stream: 1 frame: 604 size: 12821
+stream: 2 frame: 604 size: 28262
+SVC frame: 581, kf: 0, size: 21461, pts: 581
+stream: 0 frame: 605 size: 4083
+stream: 1 frame: 605 size: 10798
+stream: 2 frame: 605 size: 21453
+SVC frame: 582, kf: 0, size: 28821, pts: 582
+stream: 0 frame: 606 size: 3595
+stream: 1 frame: 606 size: 10019
+stream: 2 frame: 606 size: 28813
+SVC frame: 583, kf: 0, size: 8513, pts: 583
+stream: 0 frame: 607 size: 2223
+stream: 1 frame: 607 size: 5157
+stream: 2 frame: 607 size: 8505
+SVC frame: 584, kf: 0, size: 27852, pts: 584
+stream: 0 frame: 608 size: 7228
+stream: 1 frame: 608 size: 18804
+stream: 2 frame: 608 size: 27844
+SVC frame: 585, kf: 0, size: 17235, pts: 585
+stream: 0 frame: 609 size: 1947
+stream: 1 frame: 609 size: 5608
+stream: 2 frame: 609 size: 17227
+SVC frame: 586, kf: 0, size: 22563, pts: 586
+stream: 0 frame: 610 size: 4493
+stream: 1 frame: 610 size: 11465
+stream: 2 frame: 610 size: 22555
+SVC frame: 587, kf: 0, size: 24707, pts: 587
+stream: 0 frame: 611 size: 7052
+stream: 1 frame: 611 size: 12770
+stream: 2 frame: 611 size: 24699
+SVC frame: 588, kf: 0, size: 34044, pts: 588
+stream: 0 frame: 612 size: 6834
+stream: 1 frame: 612 size: 19650
+stream: 2 frame: 612 size: 34036
+SVC frame: 589, kf: 0, size: 26906, pts: 589
+stream: 0 frame: 613 size: 7704
+stream: 1 frame: 613 size: 15364
+stream: 2 frame: 613 size: 26898
+SVC frame: 590, kf: 0, size: 33043, pts: 590
+stream: 0 frame: 614 size: 6299
+stream: 1 frame: 614 size: 16755
+stream: 2 frame: 614 size: 33035
+SVC frame: 591, kf: 0, size: 12655, pts: 591
+stream: 0 frame: 615 size: 1657
+stream: 1 frame: 615 size: 6078
+stream: 2 frame: 615 size: 12647
+SVC frame: 592, kf: 0, size: 43956, pts: 592
+stream: 0 frame: 616 size: 5760
+stream: 1 frame: 616 size: 17969
+stream: 2 frame: 616 size: 43948
+SVC frame: 593, kf: 0, size: 8566, pts: 593
+stream: 0 frame: 617 size: 1644
+stream: 1 frame: 617 size: 4496
+stream: 2 frame: 617 size: 8558
+SVC frame: 594, kf: 0, size: 24364, pts: 594
+stream: 0 frame: 618 size: 9248
+stream: 1 frame: 618 size: 12349
+stream: 2 frame: 618 size: 24356
+SVC frame: 595, kf: 0, size: 21803, pts: 595
+stream: 0 frame: 619 size: 2328
+stream: 1 frame: 619 size: 14330
+stream: 2 frame: 619 size: 21795
+SVC frame: 596, kf: 0, size: 30863, pts: 596
+stream: 0 frame: 620 size: 4439
+stream: 1 frame: 620 size: 12523
+stream: 2 frame: 620 size: 30855
+SVC frame: 597, kf: 0, size: 19099, pts: 597
+stream: 0 frame: 621 size: 4583
+stream: 1 frame: 621 size: 9621
+stream: 2 frame: 621 size: 19091
+SVC frame: 598, kf: 0, size: 20189, pts: 598
+stream: 0 frame: 622 size: 3681
+stream: 1 frame: 622 size: 9449
+stream: 2 frame: 622 size: 20181
+SVC frame: 599, kf: 0, size: 27209, pts: 599
+stream: 0 frame: 623 size: 7068
+stream: 1 frame: 623 size: 14152
+stream: 2 frame: 623 size: 27201
+SVC frame: 600, kf: 1, size: 59972, pts: 600
+stream: 0 frame: 624 size: 20614
+stream: 1 frame: 624 size: 33247
+stream: 2 frame: 624 size: 59964
+SVC frame: 601, kf: 0, size: 14191, pts: 601
+stream: 0 frame: 625 size: 3040
+stream: 1 frame: 625 size: 9421
+stream: 2 frame: 625 size: 14183
+SVC frame: 602, kf: 0, size: 33124, pts: 602
+stream: 0 frame: 626 size: 6343
+stream: 1 frame: 626 size: 14508
+stream: 2 frame: 626 size: 33116
+SVC frame: 603, kf: 0, size: 23701, pts: 603
+stream: 0 frame: 627 size: 5361
+stream: 1 frame: 627 size: 14312
+stream: 2 frame: 627 size: 23693
+SVC frame: 604, kf: 0, size: 25945, pts: 604
+stream: 0 frame: 628 size: 3647
+stream: 1 frame: 628 size: 12236
+stream: 2 frame: 628 size: 25937
+SVC frame: 605, kf: 0, size: 19057, pts: 605
+stream: 0 frame: 629 size: 3499
+stream: 1 frame: 629 size: 9559
+stream: 2 frame: 629 size: 19049
+SVC frame: 606, kf: 0, size: 24815, pts: 606
+stream: 0 frame: 630 size: 5023
+stream: 1 frame: 630 size: 12192
+stream: 2 frame: 630 size: 24807
+SVC frame: 607, kf: 0, size: 25433, pts: 607
+stream: 0 frame: 631 size: 4707
+stream: 1 frame: 631 size: 13547
+stream: 2 frame: 631 size: 25425
+SVC frame: 608, kf: 0, size: 35666, pts: 608
+stream: 0 frame: 632 size: 3230
+stream: 1 frame: 632 size: 11362
+stream: 2 frame: 632 size: 35658
+SVC frame: 609, kf: 0, size: 8046, pts: 609
+stream: 0 frame: 633 size: 2056
+stream: 1 frame: 633 size: 4650
+stream: 2 frame: 633 size: 8038
+SVC frame: 610, kf: 0, size: 14903, pts: 610
+stream: 0 frame: 634 size: 5378
+stream: 1 frame: 634 size: 7615
+stream: 2 frame: 634 size: 14895
+SVC frame: 611, kf: 0, size: 25690, pts: 611
+stream: 0 frame: 635 size: 3748
+stream: 1 frame: 635 size: 15586
+stream: 2 frame: 635 size: 25682
+SVC frame: 612, kf: 0, size: 48933, pts: 612
+stream: 0 frame: 636 size: 6676
+stream: 1 frame: 636 size: 19177
+stream: 2 frame: 636 size: 48925
+SVC frame: 613, kf: 0, size: 9135, pts: 613
+stream: 0 frame: 637 size: 1967
+stream: 1 frame: 637 size: 4541
+stream: 2 frame: 637 size: 9127
+SVC frame: 614, kf: 0, size: 20319, pts: 614
+stream: 0 frame: 638 size: 4082
+stream: 1 frame: 638 size: 10664
+stream: 2 frame: 638 size: 20311
+SVC frame: 615, kf: 0, size: 27551, pts: 615
+stream: 0 frame: 639 size: 10853
+stream: 1 frame: 639 size: 16039
+stream: 2 frame: 639 size: 27543
+SVC frame: 616, kf: 0, size: 33412, pts: 616
+stream: 0 frame: 640 size: 4995
+stream: 1 frame: 640 size: 21083
+stream: 2 frame: 640 size: 33404
+SVC frame: 617, kf: 0, size: 22609, pts: 617
+stream: 0 frame: 641 size: 3711
+stream: 1 frame: 641 size: 12080
+stream: 2 frame: 641 size: 22601
+SVC frame: 618, kf: 0, size: 19046, pts: 618
+stream: 0 frame: 642 size: 2611
+stream: 1 frame: 642 size: 8054
+stream: 2 frame: 642 size: 19038
+SVC frame: 619, kf: 0, size: 21318, pts: 619
+stream: 0 frame: 643 size: 4669
+stream: 1 frame: 643 size: 10571
+stream: 2 frame: 643 size: 21310
+SVC frame: 620, kf: 0, size: 25532, pts: 620
+stream: 0 frame: 644 size: 3636
+stream: 1 frame: 644 size: 11087
+stream: 2 frame: 644 size: 25524
+SVC frame: 621, kf: 0, size: 22708, pts: 621
+stream: 0 frame: 645 size: 5623
+stream: 1 frame: 645 size: 11834
+stream: 2 frame: 645 size: 22700
+SVC frame: 622, kf: 0, size: 36825, pts: 622
+stream: 0 frame: 646 size: 4172
+stream: 1 frame: 646 size: 14272
+stream: 2 frame: 646 size: 36817
+SVC frame: 623, kf: 0, size: 16767, pts: 623
+stream: 0 frame: 647 size: 4185
+stream: 1 frame: 647 size: 9942
+stream: 2 frame: 647 size: 16759
+SVC frame: 624, kf: 0, size: 41378, pts: 624
+stream: 0 frame: 648 size: 5459
+stream: 1 frame: 648 size: 16609
+stream: 2 frame: 648 size: 41370
+SVC frame: 625, kf: 0, size: 10281, pts: 625
+stream: 0 frame: 649 size: 2342
+stream: 1 frame: 649 size: 5867
+stream: 2 frame: 649 size: 10273
+SVC frame: 626, kf: 0, size: 14859, pts: 626
+stream: 0 frame: 650 size: 2769
+stream: 1 frame: 650 size: 7561
+stream: 2 frame: 650 size: 14851
+SVC frame: 627, kf: 0, size: 22417, pts: 627
+stream: 0 frame: 651 size: 8099
+stream: 1 frame: 651 size: 13401
+stream: 2 frame: 651 size: 22409
+SVC frame: 628, kf: 0, size: 30108, pts: 628
+stream: 0 frame: 652 size: 3845
+stream: 1 frame: 652 size: 15832
+stream: 2 frame: 652 size: 30100
+SVC frame: 629, kf: 0, size: 24269, pts: 629
+stream: 0 frame: 653 size: 6453
+stream: 1 frame: 653 size: 12682
+stream: 2 frame: 653 size: 24261
+SVC frame: 630, kf: 0, size: 32662, pts: 630
+stream: 0 frame: 654 size: 7430
+stream: 1 frame: 654 size: 17830
+stream: 2 frame: 654 size: 32654
+Processed 654 frames
+Total number of processed frames: 653
+
+Rate control layer stats for sl3 tl1 layer(s):
+
+For layer#: sl0 tl0 
+Bitrate (target vs actual): 1200 1157.432794.0 kbps
+Average frame size (target vs actual): 40000.000000 38785.589744 bits
+Average rate_mismatch: 30.157885
+Number of input frames, encoded (non-key) frames, and percent dropped frames: 655 624 4.580153.0 
+
+For layer#: sl1 tl0 
+Bitrate (target vs actual): 1800 1732.130198.0 kbps
+Average frame size (target vs actual): 60000.000000 60101.243590 bits
+Average rate_mismatch: 32.309252
+Number of input frames, encoded (non-key) frames, and percent dropped frames: 655 624 4.580153.0 
+
+For layer#: sl2 tl0 
+Bitrate (target vs actual): 3000 2886.696550.0 kbps
+Average frame size (target vs actual): 100000.000000 99291.435897 bits
+Average rate_mismatch: 39.657974
+Number of input frames, encoded (non-key) frames, and percent dropped frames: 655 624 4.580153.0 
+
+Short-time stats, for window of 15 frames: 
+Average, rms-variance, and percent-fluct: 406.093108 173.601960 42.749300 
+Num of input, num of encoded (super) frames: 654 655 
+
+Frame cnt and encoding time/FPS stats for encoding: 654 117.847143 8.485569 

@@ -1,0 +1,14 @@
+## Install
+
+./configure
+make -j8
+
+## Encode videos into three temporal layers
+
+cd video-case1
+./gen-case1-trace.sh
+
+## Encode videos into three quality layers
+
+cd video-case2
+./gen-case2-trace.sh
