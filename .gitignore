@@ -42,6 +42,7 @@
 /examples/vp9_lossless_encoder
 /examples/vp9_spatial_svc_encoder
 /examples/vpx_temporal_svc_encoder
+/examples/semantic_drop_decode
 /ivfdec
 /ivfdec.dox
 /ivfenc
@@ -69,3 +70,4 @@
 TAGS
 /video
 *.ivf
+*.yuv

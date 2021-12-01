@@ -126,6 +126,24 @@ vp9_spatial_svc_encoder.SRCS        += examples/svc_context.h
 vp9_spatial_svc_encoder.GUID        = 4A38598D-627D-4505-9C7B-D4020C84100D
 vp9_spatial_svc_encoder.DESCRIPTION = VP9 Spatial SVC Encoder
 
+EXAMPLES-$(CONFIG_VP9_ENCODER)      += semantic_drop_decode.c
+semantic_drop_decode.SRCS        += args.c args.h
+semantic_drop_decode.SRCS        += ivfenc.c ivfenc.h
+semantic_drop_decode.SRCS        += ivfdec.c ivfdec.h
+semantic_drop_decode.SRCS        += y4minput.c y4minput.h
+semantic_drop_decode.SRCS        += tools_common.c tools_common.h
+semantic_drop_decode.SRCS        += video_common.h
+semantic_drop_decode.SRCS        += video_writer.h video_writer.c
+semantic_drop_decode.SRCS        += video_reader.h video_reader.c
+semantic_drop_decode.SRCS		+= vpx_ports/mem_ops.h
+semantic_drop_decode.SRCS		+= vpx_ports/mem_ops_aligned.h
+semantic_drop_decode.SRCS        += vpx_ports/msvc.h
+semantic_drop_decode.SRCS        += vpxstats.c vpxstats.h
+semantic_drop_decode.SRCS        += examples/svc_encodeframe.c
+semantic_drop_decode.SRCS        += examples/svc_context.h
+semantic_drop_decode.GUID        = 4A38598D-627D-4505-9C7B-D4020C84100C
+semantic_drop_decode.DESCRIPTION = Decoder with frame drops
+
 ifneq ($(CONFIG_SHARED),yes)
 EXAMPLES-$(CONFIG_VP9_ENCODER)    += resize_util.c
 endif
