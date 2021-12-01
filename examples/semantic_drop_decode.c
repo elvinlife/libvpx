@@ -101,6 +101,11 @@ int main(int argc, const char **argv) {
 
   if ( argc != 4 ) {
     fprintf(stderr, "./semantic_drop_decode [prefix] [trace] [output]\n");
+    fprintf(stderr, "[trace]: the trace of received frames and its layers.\n"
+       "The 1st line composes: the number of bitrates, and the corresponding bitrates.\n"
+       "In the following lines, the 1st item is the number of layers received of this frame, the 2nd item is the frame id, and the 3rd item is the bitrate of this frame\n"
+       "[prefix]: the prefix of the filename of all input videos. The filename of an input video should be [prefix]+"_"+[bitrate]. In this example, it's mot17-10_1200, mot17-10_2000, etc\n"
+       "[output]: the final output video filename\n");
     return -1;
   }
   FILE* fptr = fopen(argv[2], "r");
